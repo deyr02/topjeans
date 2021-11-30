@@ -1,0 +1,3786 @@
+<store>
+    
+    <!-- women  skinny-->
+    <product id="w1000" gender="women"  category="Skinny Jeans" brand="Abrand">
+        <name>Abrand low rise skinny black</name>
+        <price>109.99</price>
+        <sale>New in</sale>
+        <image>
+            <pic>"image/040195_black_l.jpg"</pic>
+            <pic>"image/040195_black_l.jpg"</pic>
+            <pic>"image/040195_black_side_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>91% Cotton</type>
+            <type>8% T-400</type>
+            <type>1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        
+        <color>
+            <available>black</available>
+        </color>
+    </product>     
+    <product id="w1001" gender="women"  category="Skinny Jeans" brand="Abrand">
+        <name>ABRAND A HIGH RISE SKINNY ANKLE IN KIMBERLY</name>
+           <price>129.99</price>
+        <sale>New in</sale>
+        <image>
+            <pic>"image/040396_denim_l.jpg"</pic>
+            <pic>"image/040396_denim_back_l.jpg"</pic>
+            <pic>"image/040396_denim_side_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>69% Cotton</type>
+            <type>21% Polyester </type>
+            <type>9% Rayon</type>
+            <type>1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>5 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>2 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>1 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>8 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>3 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>black</available>
+        </color>
+    </product>    
+    <product id="w1002" gender="women"  category="Skinny Jeans" brand="Abrand">
+        <name>ABRAND HIGH RISE SKINNY ANKLE BILLIBL</name>
+           <price>109.99</price>
+            <sale>Regular</sale>
+        <image>
+            <pic>"image/040260_denim_l.jpg"</pic>
+            <pic>"image/040260_denim_back_l.jpg"</pic>
+            <pic>"image/040260_denim_side_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type> 98%cotton</type>
+            <type>2%elastane</type>
+        </fabric>
+\
+        <stock>
+            <size><measurement>6</measurement><quantity>6 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>3 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>1 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>5 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>12</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>denim</available>
+        </color>
+    </product>    
+    <product id="w1003" gender="women"  category="Skinny Jeans" brand="Calvin Klein">
+        <name>CALVIN KLEIN HIGH RISE SKINNY IN PORTLAND BLUE BLACK</name>
+        <price>129.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/121470_denim_l.jpg"</pic>
+            <pic>"image/121470_denim_back_l.jpg"</pic>
+            <pic>"image/121470_denim_outfit_l.jpg"</pic>
+            <pic>"image/121470_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>98% Cotton</type>
+            <type>2% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>5 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>1 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>1 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>1 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>12</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>13</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>14</measurement><quantity>out of stock</quantity></size> 
+        </stock>
+        <color>
+            <available>blue_black</available>
+        </color>
+    </product>
+    <product id="w1004" gender="women"  category="Skinny Jeans" brand="Calvin Klein">
+        <name>CALVIN KLEIN MR SUPER SKINNY ETERNAL BLACK</name>
+        <price>129.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/121473_black_l.jpg"</pic>
+            <pic>"image/121473_black_back_l.jpg"</pic>
+            <pic>"image/121473_black_outfit_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>70% Cotton</type>
+            <type>28% Polyester</type>
+            <type> 2% Elastan</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>1 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>8</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>9</measurement><quantity>out of stock </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>1 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>1 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>black</available>
+        </color>
+    </product>
+    <product id="w1005" gender="women"  category="Skinny Jeans" brand="Calvin Klein">
+        <name>CALVIN KLEIN MID RISE SUPER SKINNY IN DENIM</name>
+        <price>159.00</price>
+        <sale>New in</sale>
+        <image>
+            <pic>"image/124771_denim_l.jpg"</pic>
+            <pic>"image/124771_denim_back_l.jpg"</pic>
+            <pic>"image/124771_denim_outfit_l.jpg"</pic>
+            <pic>"image/124771_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>98% Cotton</type>
+            <type>2% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>1 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>1 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>1 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>1 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>1 - left</quantity></size> 
+            <size><measurement>11</measurement><quantity>1 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>1 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>denim</available>
+        </color>
+    </product>
+    <product id="w1006" gender="women"  category="Skinny Jeans" brand="Calvin Klein">
+        <name>CALVIN KLEIN MID RISE SKINNY ANKLE IN DENIM</name>
+        <price>139.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/121508_denim_l.jpg"</pic>
+            <pic>"image/121508_denim_back_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>92% Cotton</type>
+            <type>7% Polyester</type>
+            <type>1% Spandex</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>1 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>2 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>3 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>4 - left</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>denim</available>
+        </color>
+    </product>
+    <product id="w1007" gender="women"  category="Skinny Jeans" brand="Calvin Klein">
+        <name>CALVIN KLEIN JEANS HIGH RISE SKINNY IN BLEACH BLUE DESTROY</name>
+        <price>209.99</price>
+        <sale>New in</sale>
+        <image>
+            <pic>"image/122563_denim_l.jpg"</pic>
+            <pic>"image/122563_denim_back_l.jpg"</pic>
+            <pic>"image/122563_denim_outfit_l.jpg"</pic>
+            <pic>"image/122563_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>94% Cotton</type>
+            <type>4% Elastomultiester</type>
+            <type>2% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>10 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>10 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>10 - left</quantity></size> 
+            <size><measurement>11</measurement><quantity>10 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>10 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/122563_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="w1008" gender="women"  category="Skinny Jeans" brand="Lee">
+        <name>LEE HI LICKS CROP SPIRIT BLUE</name>
+        <price>149.90</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/270758_denim_l.jpg"</pic>
+            <pic>"image/270758_denim_back_l.jpg"</pic>
+            <pic>"image/270758_denim_side_l.jpg"</pic>
+            <pic>"image/270758_denim_alt_ljpg"</pic>
+        </image>
+        <fabric>
+            <type> 99% Cotton</type>
+            <type> 1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/270758_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="w1009" gender="women"  category="Skinny Jeans" brand="Lee">
+        <name>LEE HI LICKS CROP POWER BLUE</name>
+        <price>149.90</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/270757_denim_l.jpg"</pic>
+            <pic>"image/270757_denim_back_l.jpg"</pic>
+            <pic>"image/270757_denim_side_l.jpg"</pic>
+            <pic>"image/270757_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton </type>
+            <type>1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>1 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>1 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>2 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>12</measurement><quantity>1 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/270757_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="w1010" gender="women"  category="Skinny Jeans" brand="Lee">
+        <name>LEE HIGH LICKS CROP VIXEN</name>
+        <price>169.90 </price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/270799_denim_l.jpg"</pic>
+            <pic>"image/270799_denim_back_l.jpg"</pic>
+            <pic>"image/270799_denim_outfit_l.jpg"</pic>
+            <pic>"image/270799_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>98% Cotton</type>
+            <type>2% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>8 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>8 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>2 - left</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/black.jpg"</available>
+        </color>
+    </product>
+    <product id="w1011" gender="women"  category="Skinny Jeans" brand="Levi's">
+        <name>LEVI 721 SKINNY IN HAVE A NICE DA</name>
+        <price>149,99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/010293_denim_l.jpg"</pic>
+            <pic>"image/010293_denim_back_l.jpg"</pic>
+            <pic>"image/010293_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>97% Cotton</type>
+            <type>3% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/010293_denim_swatch.jpg"</available>
+        </color>
+    </product>    
+    <product id="w1012" gender="women"  category="Skinny Jeans" brand="Levi's">
+        <name>LEVI HIGH RISE BOYFRIEND BOGOTA FUN</name>
+        <price>149.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/010267_denim_l.jpg"</pic>
+            <pic>"image/010267_denim_back_l.jpg"</pic>
+            <pic>"image/010267_denim_outfit_l.jpg"</pic>
+            <pic>"image/010267_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>70% Lyocell </type>
+            <type>20% Cotton</type>
+            <type>8% Polyester</type>
+            <type>2% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/010267_denim_swatch.jpg"</available>
+        </color>
+    </product>    
+    <product id="w1013" gender="women"  category="Skinny Jeans" brand="Levi's">
+        <name>LEVIS 501 SKINNY TANGO TAPS</name>
+        <price>169.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/010208_denim_l.jpg"</pic>
+            <pic>"image/010208_denim_back_l.jpg"</pic>
+            <pic>"image/010208_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/010208_denim_swatch.jpg"</available>
+        </color>
+    </product>    
+    <product id="w1014" gender="women"  category="Skinny Jeans" brand="Levi's">
+        <name>LEVIS HIGH RISE BOYFRIEND WASH BLACK</name>
+        <price>149.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/010222_black_l.jpg"</pic>
+            <pic>"image/010222_black_back_l.jpg"</pic>
+            <pic>"image/010222_black_outfit_l.jpg"</pic>
+            <pic>"image/010222_black_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>70% Ctn</type>
+            <type>20% Poly</type>
+            <type>8% Visc</type>
+            <type>2% Elas</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/010222_black_swatch.jpg"</available>
+        </color>
+    </product>    
+    <product id="w1015" gender="women"  category="Skinny Jeans" brand="Levi's">
+        <name>LEVIS 710 SUPER SKINNY IN WANDERING MIND</name>
+        <price>109.99</price>
+        <sale>New in</sale>
+        <image>
+            <pic>"image/019989_denim_l.jpg"</pic>
+            <pic>"image/019989_denim_back_l.jpg"</pic>
+            <pic>"image/019989_denim_side_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>85% Cotton</type>
+            <type>12% Polyester</type>
+            <type>3% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>10 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>10 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>10 -left</quantity></size> 
+            <size><measurement>11</measurement><quantity>10 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>10 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/019989_denim_swatch.jpg"</available>
+        </color>
+    </product>    
+    <product id="w1016" gender="women"  category="Skinny Jeans" brand="Levi's">
+        <name>LEVI'S 311 SHAPING SKINNY IN OPEN OCEAN</name>
+        <price>139.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/019807_denim_l.jpg"</pic>
+            <pic>"image/019807_denim_back_l.jpg"</pic>
+            <pic>"image/019807_denim_outfit_l.jpg"</pic>
+            <pic>"image/019807_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>60.0% Cotton</type>
+            <type>24.0% Polyester</type>
+            <type>12.0% Viscose</type>
+            <type>4.0% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/019807_denim_swatch.jpg"</available>
+        </color>
+    </product>    
+    <product id="w1017" gender="women"  category="Skinny Jeans" brand="Levi's">
+        <name>LEVI'S 311 SHAPE SKINNY ULTRA BLACK</name>
+        <price>169.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/019805_black_l.jpg"</pic>
+            <pic>"image/019805_black_back_l.jpg"</pic>
+            <pic>"image/019805_black_outfit_l.jpg"</pic>
+            <pic>"image/019805_black_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>74% Cotton</type>
+            <type>24% Polyester</type>
+            <type>12% Viscose</type>
+            <type>4% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/019805_black_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="w1018" gender="women"  category="Skinny Jeans" brand="Riders By Lee">
+        <name>RIDERS BY LEE MID VEGAS JEAN IN TRUE BLACK</name>
+        <price>109.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/051383_black_l.jpg"</pic>
+            <pic>"image/051383_black_back_l.jpg"</pic>
+            <pic>"image/051383_black_side_l.jpg"</pic>
+            <pic>"image/051383_black_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>63% Cotton</type>
+            <type>18% Viscose</type>
+            <type>17% Polyester</type>
+            <type>2% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/051383_black_swatch.jpg"</available>
+        </color>
+    </product>    
+    <product id="w1019" gender="women"  category="Skinny Jeans" brand="Riders By Lee">
+        <name>RIDERS BY LEE HI RIDER CURVE IN EVERGLADE BLUE</name>
+        <price>119.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/051613_denim_l.jpg"</pic>
+            <pic>"image/051613_denim_back_l.jpg"</pic>
+            <pic>"image/051613_denim_outfit_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>98% Cotton</type>
+            <type>2% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>1 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/051613_denim_swatch.jpg"</available>
+        </color>
+    </product>  
+    <product id="w1020" gender="women"  category="Skinny Jeans" brand="Riders By Lee">
+        <name>RIDERS BY LEE MID VEGAS JEAN IN TRUE WHITE</name>
+        <price>109.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/051333_white_l.jpg"</pic>
+            <pic>"image/051333_white_back_l.jpg"</pic>
+            <pic>"image/051333_white_outfit_l.jpg"</pic>
+            <pic>"image/051333_white_side_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>65% Cotton </type>
+            <type>18% Viscose</type>
+            <type>13% Polyester</type>
+            <type>1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/051333_white_swatch.jpg"</available>
+        </color>
+    </product>
+    <!--  women slim  -->
+    <product id="w1021" gender="women"  category="Slim Jeans" brand="Abrand">
+        <name>ABRAND 94 HIGH SLIM ELECTRA</name>
+        <price>109.99</price>
+        <sale>New in</sale>
+        <image>
+            <pic>"image/040358_denim_l.jpg"</pic>
+            <pic>"image/040358_denim_back_l.jpg"</pic>
+            <pic>"image/040358_denim_outfit_l.jpg"</pic>
+            <pic>"image/040358_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>10 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>10 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>10 - left</quantity></size> 
+            <size><measurement>11</measurement><quantity>10 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>10 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/040358_denim_swatch.jpg"</available>
+        </color>
+    </product>    
+    <product id="w1022" gender="women"  category="Slim Jeans" brand="Abrand">
+        <name>ABRAND A94 SLIM GEORGIA BLUE</name>
+        <price>109.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/040327_denim_l.jpg"</pic>
+            <pic>"image/040327_denim_back_l.jpg"</pic>
+            <pic>"image/040327_denim_side_l.jpg"</pic>
+            <pic>"image/040327_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Elastan</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>1 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/040327_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="w1023" gender="women"  category="Slim Jeans" brand="Levi's">
+        <name>LEVIS 312 SHAPING SLIM IN PARIS STREETS</name>
+        <price>149.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/010045_denim_l.jpg"</pic>
+            <pic>"image/010045_denim_back_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>84% Cotton</type>
+            <type>14% Polyester</type>
+            <type>2% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>1 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>1 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>1 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>1 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>1 - left</quantity></size> 
+            <size><measurement>11</measurement><quantity>2 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>1 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/010045_denim_swatch.jpg"</available>
+        </color>
+    </product>    
+    <product id="w1024" gender="women"  category="Slim Jeans" brand="Levi's">
+        <name>LEVI 312 SLIM JEAN IN ULTRA BLACK</name>
+        <price>139,99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/019808_black_l.jpg"</pic>
+            <pic>"image/019808_black_back_l.jpg"</pic>
+            <pic>"image/019808_black_outfit_l.jpg"</pic>
+            <pic>"image/019808_black_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>60% Cotton</type>
+            <type>17% Lyocell</type>
+            <type>16% Viscose,</type>
+            <type>7% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/019808_black_swatch.jpg"</available>
+        </color>
+    </product>    
+    <product id="w1025" gender="women"  category="Slim Jeans" brand="Levi's">
+        <name>LEVI 312 SHAPING SLIM JEAN SAN FRANCISCO SUNSET</name>
+        <price>149.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/010241_denim_l.jpg"</pic>
+            <pic>"image/010241_denim_back_l.jpg"</pic>
+            <pic>"image/010241_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>94% Cotton</type>
+            <type>4% Polyester</type>
+            <type>2% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/010241_denim_swatch.jpg"</available>
+        </color>
+    </product>    
+    <product id="w1026" gender="women"  category="Slim Jeans" brand="Levi's">
+        <name>LEVI'S 312 SHAPING SLIM JEAN LONDON NIGHTFALL</name>
+        <price>149.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/010240_denim_back_l.jpg"</pic>
+            <pic>"image/010240_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>84% Cotton</type>
+            <type>14% Polyester</type>
+            <type>2% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>1 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/010240_denim_swatch.jpg"</available>
+        </color>
+    </product>    
+    <product id="w1027" gender="women"  category="Slim Jeans" brand="Levi's">
+        <name>LEVIS 312 SLIM IN GRAPHITE GREY</name>
+        <price>149.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/010296_grey_l.jpg"</pic>
+            <pic>"image/010296_grey_back_l.jpg"</pic>
+            <pic>"image/010296_grey_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>93% Cotton</type>
+            <type>5% Polyester</type>
+            <type>2% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/010296_grey_swatch.jpg"</available>
+        </color>
+    </product>    
+    <product id="w1028" gender="women"  category="Slim Jeans" brand="Levi's">
+        <name>WRANGLER DREW JEAN IN TUSA BLACK</name>
+        <price>169.99</price>
+        <sale>New in</sale>
+        <image>
+            <pic>"image/029033_black_l.jpg"</pic>
+            <pic>"image/029033_black_back_l.jpg"</pic>
+            <pic>"image/029033_black_outfit_l.jpg"</pic>
+            <pic>"image/029033_black_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>0.5% Elastane</type>
+            <type>0.5% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>10 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>10 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>10 - left</quantity></size> 
+            <size><measurement>11</measurement><quantity>10 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>10 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/black.jpg"</available>
+        </color>
+    </product>    
+    <product id="w1029" gender="women"  category="Slim Jeans" brand="Levi's">
+        <name>LEVIS 312 SHAPING SLIM IN OPEN OCEAN</name>
+        <price>139.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/019809_denim_l.jpg"</pic>
+            <pic>"image/019809_denim_back_l.jpg"</pic>
+            <pic>"image/019809_denim_outfit_l.jpg"</pic>
+            <pic>"image/019809_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>60.0% Cotton</type>
+            <type>24.0% Polyester</type>
+            <type>12.0% Viscose</type>
+            <type>4.0% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/019809_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="w1030" gender="women"  category="Slim Jeans" brand="Neuw">
+        <name>NEUW LOLA MOM ATMOSPHERE</name>
+        <price>189.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/080242_denim_l.jpg"</pic>
+            <pic>"image/080242_denim_back_l.jpg"</pic>
+            <pic>"image/080242_denim_side_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>1 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/denim.jpg"</available>
+        </color>
+    </product>  
+    <product id="w1031" gender="women"  category="Slim Jeans" brand="Wrangler">
+        <name>WRANGLER DREW SLIM IN COYOTE BLUE</name>
+        <price>169.99</price>
+        <sale>New in</sale>
+        <image>
+            <pic>"image/028965_denim_l.jpg"</pic>
+            <pic>"image/028965_denim_back_l.jpg"</pic>
+            <pic>"image/028965_denim_outfit_l.jpg"</pic>
+            <pic>"image/028965_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/028876_denim_swatch.jpg"</available>
+        </color>
+    </product>
+     <!--  women  Straight   -->
+    <product id="w1032" gender="women"  category="Straight Jeans" brand="Abrand">
+        <name>ABRAND ALINE CROP GUMNUT CORDUROY</name>
+        <price>149.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/040368_tan_l.jpg"</pic>
+            <pic>"image/040368_tan_back_l.jpg"</pic>
+            <pic>"image/040368_tan_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Spandex</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>1 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/tan.jpg"</available>
+        </color>
+    </product>
+    <product id="w1033" gender="women"  category="Straight Jeans" brand="Abrand">
+        <name>ABRAND A STREET A-LINE CROP IN GEORGIA BLUE</name>
+        <price>129.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/040366_denim_l.jpg"</pic>
+            <pic>"image/040366_denim_back_l.jpg"</pic>
+            <pic>"image/040366_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/denim.jpg"</available>
+        </color>
+    </product>
+    <product id="w1034" gender="women"  category="Straight Jeans" brand="Abrand">
+        <name>ABRAND A VENICE STRAIGHT BLEACHED STONE</name>
+        <price>129.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/040365_denim_l.jpg"</pic>
+            <pic>"image/040365_denim_back_l.jpg"</pic>
+            <pic>"image/040365_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>100% Cotton</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/denim.jpg"</available>
+        </color>
+    </product>
+    <product id="w1035" gender="women"  category="Straight Jeans" brand="Lee">
+        <name>LEE JEANS HIGH STRAIGHT IN BARE BLACK</name>
+        <price>169.90</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/270796_black_l.jpg"</pic>
+            <pic>"image/270796_black_back_l.jpg"</pic>
+            <pic>"image/270796_black_outfit_l.jpg"</pic>
+            <pic>"image/270796_black_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99.5% Cotton</type>
+            <type>0.5% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/black.jpg"</available>
+        </color>
+    </product>    
+    <product id="w1036" gender="women"  category="Straight Jeans" brand="Lee">
+        <name>LEE JEANS HIGH STRAIGHT SMOOTH INDIGO</name>
+        <price>169.90</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/270794_denim_l.jpg"</pic>
+            <pic>"image/270794_denim_back_l.jpg"</pic>
+            <pic>"image/270794_denim_outfit_l.jpg"</pic>
+            <pic>"image/270794_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/denim.jpg"</available>
+        </color>
+    </product>    
+    <product id="w1037" gender="women"  category="Straight Jeans" brand="Lee">
+        <name>LEE JEANS HI LICKS CROP WORN BEAUTY</name>
+        <price>179.90</price>
+        <sale>New in</sale>
+        <image>
+            <pic>"image/270791_denim_l.jpg"</pic>
+            <pic>"image/270791_denim_back_l.jpg"</pic>
+            <pic>"image/270791_denim_outfit_l.jpg"</pic>
+            <pic>"image/270791_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton </type>
+            <type>1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>9 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>9 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>9 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>9 - left</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/denim.jpg"</available>
+        </color>
+    </product>    
+    <product id="w1038" gender="women"  category="Straight Jeans" brand="Lee">
+        <name>LEE JEANS HIGH RELAXED JEAN RADIATE</name>
+        <price>179.99</price>
+        <sale>New in</sale>
+        <image>
+            <pic>"image/270795_denim_l.jpg"</pic>
+            <pic>"image/270795_denim_back_l.jpg"</pic>
+            <pic>"image/270795_denim_outfit_l.jpg"</pic>
+            <pic>"image/270795_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>100% Cotton</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/denim"</available>
+        </color>
+    </product>    
+    <product id="w1039" gender="women"  category="Straight Jeans" brand="Lee">
+        <name>LEE HIGH STRAIGHT SUPPLE BLUE</name>
+        <price>169.90</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/270793_denim_l.jpg"</pic>
+            <pic>"image/270793_denim_back_l.jpg"</pic>
+            <pic>"image/270793_denim_outfit_l.jpg"</pic>
+            <pic>"image/270793_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/denim.jpg"</available>
+        </color>
+    </product>    
+    <product id="w1040" gender="women"  category="Straight Jeans" brand="Lee">
+        <name>LEE HI MOM REAL BLUE</name>
+        <price>159.90</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/270718_denim_l.jpg"</pic>
+            <pic>"image/270718_denim_back_l.jpg"</pic>
+            <pic>"image/270718_denim_outfit_l.jpg"</pic>
+            <pic>"image/270718_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>100% Cotton</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/denim.jpg"</available>
+        </color>
+    </product>
+    <product id="w1041" gender="women"  category="Straight Jeans" brand="Levi's">
+        <name>LEVIS DAD JEAN IN RAD DAD BLACK</name>
+        <price>169,99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/010216_black_l.jpg"</pic>
+            <pic>"image/010216_black_back_l.jpg"</pic>
+            <pic>"image/010216_black_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type> 100% Cotton</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/010216_black_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="w1042" gender="women"  category="Straight Jeans" brand="Levi's">
+        <name>LEVI'S 314 SHAPING STRAIGHT IN OPEN OCEAN</name>
+        <price>139.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/019810_denim_l.jpg"</pic>
+            <pic>"image/019810_denim_back_l.jpg"</pic>
+            <pic>"image/019810_denim_outfit_l.jpg"</pic>
+            <pic>"image/019810_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>60.0% Cotton</type>
+            <type>24.0% Polyester</type>
+            <type>12.0% Viscose</type>
+            <type>4.0% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>9 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/019810_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="w1043" gender="women"  category="Straight Jeans" brand="Levi's">
+        <name>LEVI'S 314 SHAPE STRAIGHT IN OPEN OCEAN</name>
+        <price>139.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/019815_denim_l.jpg"</pic>
+            <pic>"image/019815_denim_back_l.jpg"</pic>
+            <pic>"image/019815_denim_outfit_l.jpg"</pic>
+            <pic>"image/019815_denim_side_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>60.0% Cotton</type>
+            <type>24.0% Polyester</type>
+            <type>12.0% Viscose</type>
+            <type>4.0% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/019815_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="w1044" gender="women"  category="Straight Jeans" brand="Levi's">
+        <name>LEVIS 314 SHAPING STRAIGHT IN PARIS NIGHTS</name>
+        <price>149.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/010048_denim_l.jpg"</pic>
+            <pic>"image/010048_denim_back_l.jpg"</pic>
+            <pic>"image/010048_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>84% Cotton</type>
+            <type>14% Polyester</type>
+            <type>2% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/010048_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="w1045" gender="women"  category="Straight Jeans" brand="Levi's">
+        <name>LEVI 314 SHAPING STRAIGHT JEAN BERLIN SUMMER</name>
+        <price>149.99</price>
+        <sale>New in</sale>
+        <image>
+            <pic>"image/010243_denim_l.jpg"</pic>
+            <pic>"image/010243_denim_side_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>84% Cotton</type>
+            <type>14% Polyester</type>
+            <type>2% Elastane</type>
+            <type></type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/denim.jpg"</available>
+        </color>
+    </product>
+    <product id="w1046" gender="women"  category="Straight Jeans" brand="Levi's">
+        <name>LEVI'S WEDGIE STRAIGHT IN MONTGOMERY BAKED</name>
+        <price>159.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/010287_denim_l.jpg"</pic>
+            <pic>"image/010287_denim_back_l.jpg"</pic>
+            <pic>"image/010287_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type> 100% Cotton</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/010287_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="w1047" gender="women"  category="Straight Jeans" brand="Levi's">
+        <name>LEVIS RIBCAGE STRAIGHT IN BLACK HEART</name>
+        <price>169.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/010286_black_l.jpg"</pic>
+            <pic>"image/010286_black_back_l.jpg"</pic>
+            <pic>"image/010286_black_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>97% Cotton</type>
+            <type>2% Polyester</type>
+            <type>1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/"</available>
+        </color>
+    </product>
+    <product id="w1048" gender="women"  category="Straight Jeans" brand="Riders By Lee">
+        <name>RIDERS BY LEE HIGH RISE STRAIGHT IN GRAVITY BLUE</name>
+        <price>199.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/051629_denim_l.jpg"</pic>
+            <pic>"image/051629_denim_back_l.jpg"</pic>
+            <pic>"image/051629_denim_outfit_l.jpg"</pic>
+            <pic>"image/051629_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/051629_denim_swatch.jpg"</available>
+        </color>
+    </product>      
+    <product id="w1049" gender="women"  category="Straight Jeans" brand="Riders By Lee">
+        <name>RIDERS BY LEE HI MOM IN BLACK RIPS</name>
+        <price>119.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/051627_black_l.jpg"</pic>
+            <pic>"image/051627_black_back_l.jpg"</pic>
+            <pic>"image/051627_black_outfit_l.jpg"</pic>
+            <pic>"image/051627_black_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>98% Cotton</type>
+            <type>2% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/051627_black_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="w1050" gender="women"  category="Straight Jeans" brand="Riders By Lee">
+        <name>RIDERS BY LEE MID STRAIGHT IN WASH INDIGO</name>
+        <price>109.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/051607_denim_l.jpg"</pic>
+            <pic>"image/051607_denim_back_l.jpg"</pic>
+            <pic>"image/051607_denim_outfit_l.jpg"</pic>
+            <pic>"image/051607_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>72% Cotton</type>
+            <type>23% Polyester</type>
+            <type>3% Viscose</type>
+            <type>2% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/051607_denim_swatch.jpg"</available>
+        </color>
+    </product>
+       <!--  women  SuperSkinny   -->
+    <product id="w1051" gender="women"  category="Super Skinny Jeans" brand="Calvin Klein">
+        <name>CALVIN KLEIN MID RISE SUPER SKINNY PORTLAND BLUE BLACK</name>
+        <price>129.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/121475_denim_l.jpg"</pic>
+            <pic>"image/121475_denim_back_l.jpg"</pic>
+            <pic>"image/121475_denim_outfit_l.jpg"</pic>
+            <pic>"image/121475_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>98% Cotton</type>
+            <type>2% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/121475_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="w1052" gender="women"  category="Super Skinny Jeans" brand="Lee">
+        <name>LEE HI LICKS CROP PRIMO BLACK</name>
+        <price>149.99</price>
+        <sale>New in</sale>
+        <image>
+            <pic>"image/270790_black_l.jpg"</pic>
+            <pic>"image/270790_black_back_l.jpg"</pic>
+            <pic>"image/270790_black_outfit_l.jpg"</pic>
+            <pic>"image/270790_black_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>98.3% Cotton</type>
+            <type>1.7% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/blcak.jpg"</available>
+        </color>
+    </product>
+    <product id="w1053" gender="women"  category="Super Skinny Jeans" brand="Lee">
+        <name>LEE HI LICKS SATELLITE BLUE</name>
+        <price>139.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/270714_denim_l.jpg"</pic>
+            <pic>"image/270714_denim_back_l.jpg"</pic>
+            <pic>"image/270714_denim_outfit_l.jpg"</pic>
+            <pic>"image/270714_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>91% Cotton</type>
+            <type>7.5% T400</type>
+            <type>1.5% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/270714_denim_swatch.jpg"</available>
+        </color>
+    </product>    
+    <product id="w1054" gender="women"  category="Super Skinny Jeans" brand="Lee">
+        <name>LEE MID LICKS STATELLITE BLACK</name>
+        <price>159.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/270547_black_l.jpg"</pic>
+            <pic>"image/270547_black_back_l.jpg"</pic>
+            <pic>"image/270547_black_outfit_l.jpg"</pic>
+            <pic>"image/270547_black_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>98% Cotton</type>
+            <type>2% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/270547_black_swatch.jpg"</available>
+        </color>
+    </product>    
+    <product id="w1055" gender="women"  category="Super Skinny Jeans" brand="Lee">
+        <name>LEE HI LICKS BLACK GOLD</name>
+        <price>149.00</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/270524_black_l.jpg"</pic>
+            <pic>"image/270524_black_back_l.jpg"</pic>
+            <pic>"image/270524_black_outfit_l.jpg"</pic>
+            <pic>"image/270524_black_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>41.5% Cotton</type>
+            <type>50% Modal</type>
+            <type>6% Polyester</type>
+            <type>2.5% Lycra</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/270524_black_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="w1056" gender="women"  category="Super Skinny Jeans" brand="Levi's">
+        <name>LEVI'S MILE HIGH SUPER SKINNY IN GREY CRAY</name>
+        <price>139.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/010290_grey_l.jpg"</pic>
+            <pic>"image/010290_grey_back_l.jpg"</pic>
+            <pic>"image/010290_grey_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>85% Cotton</type>
+            <type>12% Polyester</type>
+            <type>3% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/010290_grey_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="w1057" gender="women"  category="Super Skinny Jeans" brand="Levi's">
+        <name>LEVI'S 710 SUPER SKINNY BLACK KISS</name>
+        <price>109.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/010291_black_l.jpg"</pic>
+            <pic>"image/010291_black_back_l.jpg"</pic>
+            <pic>"image/010291_black_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>2% Elastane</type>
+            <type>33% Polyester</type>
+            <type>2% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/010291_black_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="w1058" gender="women"  category="Super Skinny Jeans" brand="Levi's">
+        <name>LEVI'S MILE HIGH SUPER SKINNY QUEBEC STARS</name>
+        <price>139.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/010230_denim_l.jpg"</pic>
+            <pic>"image/010230_denim_back_l.jpg"</pic>
+            <pic>"image/010230_denim_outfit_l.jpg"</pic>
+            <pic>"image/010230_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>85% Cotton</type>
+            <type>12% Polyester</type>
+            <type>3% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/010230_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="w1059" gender="women"  category="Super Skinny Jeans" brand="Levi's">
+        <name>LEVI'S 710 SKINNY JEANS ONTARIO TUMBLE</name>
+        <price>109.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/010234_denim_l.jpg"</pic>
+            <pic>"image/010234_denim_back_l.jpg"</pic>
+            <pic>"image/010234_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>85% Cotton</type>
+            <type>12% Polyester</type>
+            <type>3% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/010234_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="w1060" gender="women"  category="Super Skinny Jeans" brand="Levi's">
+        <name>LEVI'S 710 SUPER SKINNY JEAN IN FROLIC BLUE</name>
+        <price>109.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/019547_denim_l.jpg"</pic>
+            <pic>"image/019547_denim_back_l.jpg"</pic>
+            <pic>"image/019547_denim_outfit_l.jpg"</pic>
+            <pic>"image/019547_denim_side_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>85% Cotton</type>
+            <type>12% Polyester</type>
+            <type>3% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>1 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>8</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>9</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>1 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>1 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/019547_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="w1061" gender="women"  category="Super Skinny Jeans" brand="Levi's">
+        <name>LEVI'S MILE HIGH SUPER SKINNY MATH CLUB</name>
+        <price>109.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/019796_denim_l.jpg"</pic>
+            <pic>"image/019796_denim_back_l.jpg"</pic>
+            <pic>"image/019796_denim_side_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>85% Cotton</type>
+            <type>12% Polyester</type>
+            <type>3% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>1 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>1 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>2 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>1 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/019796_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="w1062" gender="women"  category="Super Skinny Jeans" brand="Levi's">
+        <name>LEVI MILE HIGH JEAN IN UPGRADE RINSE</name>
+        <price>109.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/019898_denim_l.jpg"</pic>
+            <pic>"image/019898_denim_back_l.jpg"</pic>
+            <pic>"image/019898_denim_outfit_l.jpg"</pic>
+            <pic>"image/019898_denim_side_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>85% Cotton</type>
+            <type>12% Polyester</type>
+            <type>3% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>1 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>1 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>1 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>1 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/019898_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="w1063" gender="women"  category="Super Skinny Jeans" brand="Levi's">
+        <name>LEVI'S 710 SUPER SKINNY NO DIGGITY</name>
+        <price>109.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/019829_denim_l.jpg"</pic>
+            <pic>"image/019829_denim_back_l.jpg"</pic>
+            <pic>"image/019829_denim_side_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>2% Lycra</type>
+            <type>15% Polyester</type>
+            <type>21% Viscose</type>
+            <type>62% Cotton</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>3 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>1 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>2 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>3 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/019829_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="w1064" gender="women"  category="Super Skinny Jeans" brand="Levi's">
+        <name>EVI MILE HIGH SUPER SKINNY WASHED BLACK</name>
+        <price>139.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/010224_black_l.jpg"</pic>
+            <pic>"image/010224_black_back_l.jpg"</pic>
+            <pic>"image/010224_black_outfit_l.jpg"</pic>
+            <pic>"image/010224_black_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>65% Cotton</type>
+            <type>33% Polyester</type>
+            <type>2% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>1 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>2 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>1 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>1 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/010224_black_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="w1065" gender="women"  category="Super Skinny Jeans" brand="Levi's">
+        <name>LEVI'S MILE HIGH SUPER SKINNY IN ON THE HOUSE</name>
+        <price>139.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/010030_denim_l.jpg"</pic>
+            <pic>"image/010030_denim_back_l.jpg"</pic>
+            <pic>"image/010030_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>85% Cotton</type>
+            <type>12% Polyester</type>
+            <type>3% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/010030_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="w1066" gender="women"  category="Super Skinny Jeans" brand="Levi's">
+        <name>LEVI MILE HIGH SUPER SKINNY ONTARIO SHADE</name>
+        <price>139.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/010226_denim_l.jpg"</pic>
+            <pic>"image/010226_denim_back_l.jpg"</pic>
+            <pic>"image/010226_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>85% Cotton</type>
+            <type>12% Polyester</type>
+            <type>3% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/010226_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="w1067" gender="women"  category="Super Skinny Jeans" brand="Levi's">
+        <name>LEVI'S 710 SUPER SKINNY IN QUEBEC BLUE</name>
+        <price>109.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/010233_denim_back_l.jpg"</pic>
+            <pic>"image/010233_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>85% Cotton</type>
+            <type>12% Polyester</type>
+            <type>3% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>5 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>5 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/010233_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="w1068" gender="women"  category="Super Skinny Jeans" brand="Riders By Lee">
+        <name>RIDERS BY LEE HI RIDER LENNON BLUE</name>
+        <price>109.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/051442_denim_l.jpg"</pic>
+            <pic>"image/051442_denim_back_l.jpg"</pic>
+            <pic>"image/051442_denim_outfit_l.jpg"</pic>
+            <pic>"image/051442_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>91% Cotton</type>
+            <type>7.5% Polyester</type>
+            <type>1.5% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/051442_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="w1069" gender="women"  category="Super Skinny Jeans" brand="Riders By Lee">
+        <name>RIDERS BY LEE MID ANKLE SKIMMER BLUE SAPPHIRE</name>
+        <price>109.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/051499_denim_l.jpg"</pic>
+            <pic>"image/051499_denim_back_l.jpg"</pic>
+            <pic>"image/051499_denim_outfit_l.jpg"</pic>
+            <pic>"image/051499_denim_side_l.jpg"</pic>
+            <pic>"image/051499_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>73% Cotton</type>
+            <type>23% Polyester</type>
+            <type>2% Viscose</type>
+            <type>2% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/051499_denim_swatch.jpg"</available>
+        </color>
+    </product>    
+    <product id="w1070" gender="women"  category="Super Skinny Jeans" brand="Riders By Lee">
+        <name>RIDERS BY LEE HI RIDER RIPPED JEAN IN TORN BLACK</name>
+        <price>119.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/051391_black_l.jpg"</pic>
+            <pic>"image/051391_black_back_l.jpg"</pic>
+            <pic>"image/051391_black_outfit_l.jpg"</pic>
+            <pic>"image/051391_black_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>2% Elastane</type>
+            <type>98% Cotton</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/051391_black_swatch.jpg"</available>
+        </color>
+    </product>
+        <!--  Men Skinny Jeans -->
+    <product id="m2000" gender="men"  category="Skinny Jeans" brand="Abrand">
+        <name>ABRAND DROP SKINNY IN GET SHAKY</name>
+        <price>139.99</price>
+        <sale>New in</sale>
+        <image>
+            <pic>"image/040369_denim_l.jpg"</pic>
+            <pic>"image/040369_denim_back_l.jpg"</pic>
+            <pic>"image/040369_denim_outfit_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99.3% Cotton</type>
+            <type>0.7% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/denim.jpg"</available>
+        </color>
+    </product>
+    <product id="m2001" gender="men"  category="Skinny Jeans" brand="Abrand">
+        <name>ABRAND DROP SKINNY IN YELL BLUE</name>
+        <price>129.99</price>
+        <sale>New in</sale>
+        <image>
+            <pic>"image/040370_denim_l.jpg"</pic>
+            <pic>"image/040370_denim_back_l.jpg"</pic>
+            <pic>"image/040370_denim_outfit_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>10 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>10 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>10 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>10 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/denim.jpg"</available>
+        </color>
+    </product>
+    <product id="m2002" gender="men"  category="Skinny Jeans" brand="Abrand">
+        <name>ABRAND MIDRISE SKINNY BLACK</name>
+        <price>99.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/040172_black_l.jpg"</pic>
+            <pic>"image/040172_black_back_l.jpg"</pic>
+            <pic>"image/040172_black_outfit_l.jpg"</pic>
+            <pic>"image/040172_black_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type> 75% Cotton</type>
+            <type>23% Polyester</type>
+            <type>2% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/040172_black_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2003" gender="men"  category="Skinny Jeans" brand="Abrand">
+        <name>ABRAND SKINNY MIDNIGHT INDIGO</name>
+        <price>99.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/040283_denim_l.jpg"</pic>
+            <pic>"image/040283_denim_back_l.jpg"</pic>
+            <pic>"image/040283_denim_side_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>73%cotton</type>
+            <type>26%polyester</type>
+            <type>1%spandex</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/black.jpg"</available>
+        </color>
+    </product>
+    <product id="m2004" gender="men"  category="Skinny Jeans" brand="Calvin Klein">
+        <name>CALVIN KLEIN SKINNY IN BLEACH BLUE DESTROY</name>
+        <price>209.99</price>
+        <sale>New in</sale>
+        <image>
+            <pic>"image/123366_denim_l.jpg"</pic>
+            <pic>"image/123366_denim_back_l.jpg"</pic>
+            <pic>"image/123366_denim_outfit_l.jpg"</pic>
+            <pic>"image/123366_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>86% Cotton</type>
+            <type>13% Polyester</type>
+            <type>1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/123366_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2005" gender="men"  category="Skinny Jeans" brand="Calvin Klein">
+        <name>CALVIN KLEIN SKINNY FOREVER BLACK JEAN</name>
+        <price>139.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/121530_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Spandex</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/121530_black_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2006" gender="men"  category="Skinny Jeans" brand="Calvin Klein">
+        <name>CALVIN KLEIN JEANS SKINNY BOSTON BLUE BLACK</name>
+        <price>139.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/121619_denim_l.jpg"</pic>
+            <pic>"image/121619_denim_back_l.jpg"</pic>
+            <pic>"image/121619_denim_outfit_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Spandex</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/121619_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2007" gender="men"  category="Skinny Jeans" brand="Lee">
+        <name>LEE Z-ONE DISARM BLUE</name>
+        <price>169.90</price>
+        <sale>New in</sale>
+        <image>
+            <pic>"image/270807_denim_l.jpg"</pic>
+            <pic>"image/270807_denim_back_l.jpg"</pic>
+            <pic>"image/270807_denim_outfit_l.jpg"</pic>
+            <pic>"image/270807_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Spandex</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/denim.jpg"</available>
+        </color>
+    </product>
+    <product id="m2008" gender="men"  category="Skinny Jeans" brand="Lee">
+        <name>LEE Z-ONE IN 6 MONTH BLACK RIPS</name>
+        <price>159.90</price>
+        <sale>New in</sale>
+        <image>
+            <pic>"image/270806_black_l.jpg"</pic>
+            <pic>"image/270806_black_back_l.jpg"</pic>
+            <pic>"image/270806_black_outfit_l.jpg"</pic>
+            <pic>"image/270806_black_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>98% Cotton</type>
+            <type>2% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/black.jpg"</available>
+        </color>
+    </product>   
+    <product id="m2009" gender="men"  category="Skinny Jeans" brand="Lee">
+        <name>LEE Z-ONE CORSAIR</name>
+        <price>159.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/270805_denim_l.jpg"</pic>
+            <pic>"image/270805_denim_back_l.jpg"</pic>
+            <pic>"image/270805_denim_outfit_l.jpg"</pic>
+            <pic>"image/270805_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/denim.jpg"</available>
+        </color>
+    </product>   
+    <product id="m2010" gender="men"  category="Skinny Jeans" brand="Lee">
+        <name>LEE Z-ONE TRUE BLACK</name>
+        <price>149.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/270691_black_l.jpg"</pic>
+            <pic>"image/270691_black_back_l.jpg"</pic>
+            <pic>"image/270691_black_outfit_l.jpg"</pic>
+            <pic>"image/270691_black_side_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>Tbc</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/black.jpg"</available>
+        </color>
+    </product>
+    <product id="m2011" gender="men"  category="Skinny Jeans" brand="Levi's">
+        <name>LEVI 510 SKINNY BLUE COMET</name>
+        <price>149.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/010165_denim_back_l.jpg"</pic>
+            <pic>"image/010165_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>75% Cotton</type>
+            <type>24% Lyocell</type>
+            <type>1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/010165_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2012" gender="men"  category="Skinny Jeans" brand="Levi's">
+        <name>LEVIS 510 SKINNY PREMIUM INDIGO</name>
+        <price>139.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/010144_denim_l.jpg"</pic>
+            <pic>"image/010144_denim_back_l.jpg"</pic>
+            <pic>"image/010144_denim_outfit_l.jpg"</pic>
+            <pic>"image/010144_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/010144_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2013" gender="men"  category="Skinny Jeans" brand="Levi's">
+        <name>LEVIS 510 SKINNY WASHED BLACK</name>
+        <price>149.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/010163_black_back_l.jpg"</pic>
+            <pic>"image/010163_black_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/010163_black_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2014" gender="men"  category="Skinny Jeans" brand="Levi's">
+        <name>LEVI'S 510 SKINNY IN NIGHT SHINE</name>
+        <price>149.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/019916_denim_l.jpg"</pic>
+            <pic>"image/019916_denim_back_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>1 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>1 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>1 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>1 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/019916_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2015" gender="men"  category="Skinny Jeans" brand="Riders by lee">
+        <name>RIDERS BY LEE R1 SKINNY OBSIDIAN BLACK</name>
+        <price>119.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/051642_denim_l.jpg"</pic>
+            <pic>"image/051642_denim_back_l.jpg"</pic>
+            <pic>"image/051642_denim_outfit_l.jpg"</pic>
+            <pic>"image/051642_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>67.8% Cotton</type>
+            <type>30% Polyester</type>
+            <type>2.2% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/051642_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2016" gender="men"  category="Skinny Jeans" brand="Riders by lee">
+        <name>RIDERS BY LEE SKINNY DEST BLEACH</name>
+        <price>119.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/051640_denim_l.jpg"</pic>
+            <pic>"image/051640_denim_back_l.jpg"</pic>
+            <pic>"image/051640_denim_outfit_l.jpg"</pic>
+            <pic>"image/051640_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>72% Cotton</type>
+            <type>23% Polyester</type>
+            <type>3% Viscose</type>
+            <type>2% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>1 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>1 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/051640_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2017" gender="men"  category="Skinny Jeans" brand="Riders by lee">
+        <name>RIDERS BY LEE R1 SKINNY IN COHEN WHITE</name>
+        <price>109.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/051328_white_l.jpg"</pic>
+            <pic>"image/051328_white_back_l.jpg"</pic>
+            <pic>"image/051328_white_outfit_l.jpg"</pic>
+            <pic>"image/051328_white_side_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/051328_white_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2018" gender="men"  category="Skinny Jeans" brand="Riders by lee">
+        <name>RIDERS BY LEE R1 SKINNY STRETCH NEW BLACK.</name>
+        <price>109.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/050613_black_l.jpg"</pic>
+            <pic>"image/050613_black_back_l.jpg"</pic>
+            <pic>"image/050613_black_outfit_l.jpg"</pic>
+            <pic>"image/050613_black_side_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>98% Cotton</type>
+            <type>2% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/050613_black_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2019" gender="men"  category="Skinny Jeans" brand="Wrangler">
+        <name>WRANGLER SMITH WHIP IT</name>
+        <price>159.99</price>
+        <sale>New in</sale>
+        <image>
+            <pic>"image/028996_denim_l.jpg"</pic>
+            <pic>"image/028996_denim_back_l.jpg"</pic>
+            <pic>"image/028996_denim_outfit_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>91% Cotton</type>
+            <type>7.5% Poly T400</type>
+            <type>1.5% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/denim.jpg"</available>
+        </color>
+    </product>
+    <product id="m2020" gender="men"  category="Skinny Jeans" brand="Wrangler">
+        <name>WRANGLER STRANGLER ACES HIGH</name>
+        <price>139.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/028778_black_l.jpg"</pic>
+            <pic>"image/028778_BLACK_back_l.jpg"</pic>
+            <pic>"image/028778_BLACK_outfit_l.jpg"</pic>
+            <pic>"image/028778_BLACK_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>79.2% Cotton</type>
+            <type>18.8% Polyester</type>
+            <type>2% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/028778_black_swatch.jpg"</available>
+        </color>
+    </product>
+        <!--  Men  Slim Jeans  -->
+    <product id="m2021" gender="men"  category="Slim Jeans" brand="Abrand">
+        <name>ABRAND 88 TAPER IN PASSENGER DENIM</name>
+        <price>139.99</price>
+        <sale>New in</sale>
+        <image>
+            <pic>"image/040375_denim_l.jpg"</pic>
+            <pic>"image/040375_denim_back_l.jpg"</pic>
+            <pic>"image/040375_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>100% Cotton</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>10 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>10 - left</quantity></size> 
+            <size><measurement>11</measurement><quantity>10 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>10 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/denim.jpg"</available>
+        </color>
+    </product>
+    <product id="m2022" gender="men"  category="Slim Jeans" brand="Abrand">
+        <name>ABRAND DROP SLIM BLACK RIP</name>
+        <price>129.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/040372_black_l.jpg"</pic>
+            <pic>"image/040372_black_back_l.jpg"</pic>
+            <pic>"image/040372_black_outfit_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>98.5% Cotton</type>
+            <type>1.5% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/black.jpg"</available>
+        </color>
+    </product>
+    <product id="m2023" gender="men"  category="Slim Jeans" brand="Abrand">
+        <name>ABRAND DROP SLIM MIDNIGHT RINSE</name>
+        <price>109.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/040286_denim_l.jpg"</pic>
+            <pic>"image/040286_denim_back_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>Tbc</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>7 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/040286_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2024" gender="men"  category="Slim Jeans" brand="Abrand">
+        <name>ABRAND DROP SLIM BLACK MIRROR</name>
+        <price>109.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/040285_denim_l.jpg"</pic>
+            <pic>"image/040285_denim_back_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>Tbc</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/040285_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2025" gender="men"  category="Slim Jeans" brand="Lee">
+        <name>LEE JEANS Z-TWO NOSTALGIA</name>
+        <price>169.99</price>
+        <sale>New in</sale>
+        <image>
+            <pic>"image/270810_denim_l.jpg"</pic>
+            <pic>"image/270810_denim_back_l.jpg"</pic>
+            <pic>"image/270810_denim_outfit_l.jpg"</pic>
+            <pic>"image/270810_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/denim.jpg"</available>
+        </color>
+    </product>
+    <product id="m2026" gender="men"  category="Slim Jeans" brand="Lee">
+        <name>LEE Z-TWO SATELITE BLUE</name>
+        <price>139.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/270739_denim_l.jpg"</pic>
+            <pic>"image/270739_denim_back_l.jpg"</pic>
+            <pic>"image/270739_denim_outfit_l.jpg"</pic>
+            <pic>"image/270739_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type> 91% Cotton</type>
+            <type>7.5% T400</type>
+            <type>1.5% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/denim.jpg"</available>
+        </color>
+    </product>
+    <product id="m2027" gender="men"  category="Slim Jeans" brand="Lee">
+        <name>LEE Z-TWO TAPER SLIM BLACK</name>
+        <price>149.99</price>
+        <sale>New in</sale>
+        <image>
+            <pic>"image/270506_black_l.jpg"</pic>
+            <pic>"image/270506_black_back_l.jpg"</pic>
+            <pic>"image/270506_black_outfit_l.jpg"</pic>
+            <pic>"image/270506_black_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>98% Cotton</type>
+            <type>2% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/black.jpg"</available>
+        </color>
+    </product>
+    <product id="m2028" gender="men"  category="Slim Jeans" brand="Lee">
+        <name>LEE Z-TWO MARAUDER BLACK</name>
+        <price>169.99</price>
+        <sale>New in</sale>
+        <image>
+            <pic>"image/270809_black_l.jpg"</pic>
+            <pic>"image/270809_black_back_l.jpg"</pic>
+            <pic>"image/270809_black_outfit_l.jpg"</pic>
+            <pic>"image/270809_black_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/black.jpg"</available>
+        </color>
+    </product>
+    <product id="m2029" gender="men"  category="Slim Jeans" brand="Lee">
+        <name>LEE Z-TWO MIRAGE BLUE</name>
+        <price>169.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/270781_denim_l.jpg"</pic>
+            <pic>"image/270781_denim_back_l.jpg"</pic>
+            <pic>"image/270781_denim_outfit_l.jpg"</pic>
+            <pic>"image/270781_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>94% Cotton</type>
+            <type>5% T400</type>
+            <type>1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/denim.jpg"</available>
+        </color>
+    </product>
+    <product id="m2030" gender="men"  category="Slim Jeans" brand="Levi's">
+        <name>LEVIS 511 SLIM FIT MYERS</name>
+        <price>149.99</price>
+        <sale>New in</sale>
+        <image>
+            <pic>"image/010160_denim_l.jpg"</pic>
+            <pic>"image/010160_denim_back_l.jpg"</pic>
+            <pic>"image/010160_denim_outfit_l.jpg"</pic>
+            <pic>"image/010160_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>92% Cotton</type>
+            <type>6% Elastomultiester</type>
+            <type>2% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>1 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/010160_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2031" gender="men"  category="Slim Jeans" brand="Levi's">
+        <name>RIDERS BY LEE SLIM CANYON BLUE</name>
+        <price>109.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/051644_denim_l.jpg"</pic>
+            <pic>"image/051644_denim_back_l.jpg"</pic>
+            <pic>"image/051644_denim_outfit_l.jpg"</pic>
+            <pic>"image/051644_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>78% Cotton</type>
+            <type>21% Polyester</type>
+            <type>1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/051644_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2032" gender="men"  category="Slim Jeans" brand="Levi's">
+        <name>LEVIS 511 SLIM FIT SANIBEL WAVE</name>
+        <price>139.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/010162_denim_l.jpg"</pic>
+            <pic>"image/010162_denim_back_l.jpg"</pic>
+            <pic>"image/010162_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>92% Cotton</type>
+            <type>6% Elastomultiester</type>
+            <type>2% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/010162_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2033" gender="men"  category="Slim Jeans" brand="Levi's">
+        <name>LEVIS 512 SLIM TAPERED FIT QUINCY BOLD</name>
+        <price>149.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/010152_denim_l.jpg"</pic>
+            <pic>"image/010152_denim_back_l.jpg"</pic>
+            <pic>"image/010152_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>96% Cotton</type>
+            <type>3% Polyester</type>
+            <type>1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/010152_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2034" gender="men"  category="Slim Jeans" brand="Levi's">
+        <name>LEVIS 512 SLIM TAPER IN FOREST</name>
+        <price>149.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/010206_denim_l.jpg"</pic>
+            <pic>"image/010206_denim_back_l.jpg"</pic>
+            <pic>"image/010206_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/010206_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2035" gender="men"  category="Slim Jeans" brand="Levi's">
+        <name>LEVIS 511 SLIM FIT IVY</name>
+        <price>169.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/010155_denim_back_l.jpg"</pic>
+            <pic>"image/010155_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/010155_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2036" gender="men"  category="Slim Jeans" brand="Levi's">
+        <name>EVI'S 511 SLIM JEAN IN DUCKY BOY</name>
+        <price>139.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/019630_denim_l.jpg"</pic>
+            <pic>"image/019630_denim_back_l.jpg"</pic>
+            <pic>"image/019630_denim_outfit_l.jpg"</pic>
+            <pic>"image/019630_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Spandex</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/019630_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2037" gender="men"  category="Slim Jeans" brand="Levi's">
+        <name>LEVIS 511 SLIM IN WITCH IS DEAD</name>
+        <price>149.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/010101_denim_l.jpg"</pic>
+            <pic>"image/010101_denim_back_l.jpg"</pic>
+            <pic>"image/010101_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>98% Cotton</type>
+            <type>2% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/010101_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2038" gender="men"  category="Slim Jeans" brand="Levi's">
+        <name>LEVI'S 502 TAPER JEAN IN NIGHTSHINE</name>
+        <price>139.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/019722_black_l.jpg"</pic>
+            <pic>"image/019722_black_back_l.jpg"</pic>
+            <pic>"image/019722_black_outfit_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/019722_black_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2039" gender="men"  category="Slim Jeans" brand="Levi's">
+        <name>LEVI'S 502 TAPER SEQUOIA</name>
+        <price>149.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/019721_denim_l.jpg"</pic>
+            <pic>"image/019721_denim_back_l.jpg"</pic>
+            <pic>"image/019721_denim_outfit_l.jpg"</pic>
+            <pic>"image/019721_denim_side_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Spandex</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/019721_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2040" gender="men"  category="Slim Jeans" brand="Levi's">
+        <name>LEVI'S 511 SLIM DARK STONEWASH</name>
+        <price>109.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/019891_denim_l.jpg"</pic>
+            <pic>"image/019891_denim_back_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/019891_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2041" gender="men"  category="Slim Jeans" brand="Levi's">
+        <name>LEVI'S 511 SLIM JEAN IN SEQUOIA</name>
+        <price>149.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/019624_denim_l.jpg"</pic>
+            <pic>"image/019624_denim_back_l.jpg"</pic>
+            <pic>"image/019624_denim_outfit_l.jpg"</pic>
+            <pic>"image/019624_denim_side_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Spandex</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/019624_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2042" gender="men"  category="Slim Jeans" brand="Levi's">
+        <name>LEVI'S 512 SLIM TAPER IN NIGHTSHINE</name>
+        <price>139.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/019640_black_l.jpg"</pic>
+            <pic>"image/019640_black_back_l.jpg"</pic>
+            <pic>"image/019640_black_outfit_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/019640_black_swatch.jpg"</available>
+        </color>
+    </product>
+                <!-- Men  Straight Jeans -->
+    <product id="m2043" gender="men"  category="Straight Jeans" brand="Calvin Klein">
+        <name>CALVIN KLEIN STRAIGHT FOREVER BLACK</name>
+        <price>139.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/121536_denim_l.jpg"</pic>
+            <pic>"image/121536_denim_back_l.jpg"</pic>
+            <pic>"image/121536_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Spandex</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/black.jpg"</available>
+        </color>
+    </product>
+    <product id="m2044" gender="men"  category="Straight Jeans" brand="Calvin Klein">
+        <name>CALVIN KLEIN RELAX STRAIGHT HOUSTON MID RISE</name>
+        <price>139.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/121547_denim_l.jpg"</pic>
+            <pic>"image/121547_denim_back_l.jpg"</pic>
+            <pic>"image/121547_denim_outfit_l.jpg"</pic>
+            <pic>"image/121547_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Spandex</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/121547_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2045" gender="men"  category="Straight Jeans" brand="Calvin Klein">
+        <name>CALVIN KLEIN RELAX STRAIGHT BLUE BLACK</name>
+        <price>139.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/121537_denim_l.jpg"</pic>
+            <pic>"image/121537_denim_back_l.jpg"</pic>
+            <pic>"image/121537_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Spandex</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/121537_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2046" gender="men"  category="Straight Jeans" brand="Calvin Klein">
+        <name>CALVIN KLEIN STRAIGHT HOUSTON DARK BLUE</name>
+        <price>139.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/121535_denim_l.jpg"</pic>
+            <pic>"image/121535_denim_back_l.jpg"</pic>
+            <pic>"image/121535_denim_outfit_l.jpg"</pic>
+            <pic>"image/121535_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Spandex</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/121535_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2047" gender="men"  category="Straight Jeans" brand="Calvin Klein">
+        <name>CALVIN KLEIN STRAIGHT HOUSTON LIGHT BLUE</name>
+        <price>139.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/121534_denim_l.jpg"</pic>
+            <pic>"image/121534_denim_back_l.jpg"</pic>
+            <pic>"image/121534_denim_outfit_l.jpg"</pic>
+            <pic>"image/121534_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Spandex</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/121534_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2048" gender="men"  category="Straight Jeans" brand="Levi's">
+        <name>LEVIS 516 STRAIGHT PUMPKIN IN DENIM</name>
+        <price>139.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/010312_denim_back_l.jpg"</pic>
+            <pic>"image/010312_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/010312_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2049" gender="men"  category="Straight Jeans" brand="Levi's">
+        <name>LEVI'S 541 ATHLETIC FIT IN GOLDEN ROD TINT OVERT</name>
+        <price>139.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/010088_denim_l.jpg"</pic>
+            <pic>"image/010088_denim_back_l.jpg"</pic>
+            <pic>"image/010088_denim_outfit_l.jpg"</pic>
+            <pic>"image/010088_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/010088_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2050" gender="men"  category="Straight Jeans" brand="Levi's">
+        <name>LEVIS 514 STRAIGHT</name>
+        <price>139.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/019930_denim_l.jpg"</pic>
+            <pic>"image/019930_denim_back_l.jpg"</pic>
+            <pic>"image/019930_denim_outfit_l.jpg"</pic>
+            <pic>"image/019930_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99.0% Cotton</type>
+            <type>1.0% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/019930_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2051" gender="men"  category="Straight Jeans" brand="Levi's">
+        <name>LEVIS 516 STRAIGHT GOLDEN ROD DENIM</name>
+        <price>139.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/010167_denim_l.jpg"</pic>
+            <pic>"image/010167_denim_back_l.jpg"</pic>
+            <pic>"image/010167_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/010167_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2052" gender="men"  category="Straight Jeans" brand="Levi's">
+        <name>LEVIS 516 STRAIGHT SUN BEAM</name>
+        <price>139.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/010166_denim_l.jpg"</pic>
+            <pic>"image/010166_denim_back_l.jpg"</pic>
+            <pic>"image/010166_denim_outfit_l.jpg"</pic>
+            <pic>"image/010166_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>98% Cotton</type>
+            <type>2% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/010166_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2053" gender="men"  category="Straight Jeans" brand="Levi's">
+        <name>LEVI'S 514 STRAIGHT CORBEN</name>
+        <price>139.99</price>
+        <sale>New in</sale>
+        <image>
+            <pic>"image/019794_denim_l.jpg"</pic>
+            <pic>"image/019794_denim_back_l.jpg"</pic>
+            <pic>"image/019794_denim_outfit_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type> 100% Cotton</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/019794_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2054" gender="men"  category="Straight Jeans" brand="Levi's">
+        <name>LEVI'S 514 STRAIGHT CALI BLACK</name>
+        <price>109.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/019887_black_l.jpg"</pic>
+            <pic>"image/019887_black_back_l.jpg"</pic>
+            <pic>"image/019887_black_outfit_l.jpg"</pic>
+            <pic>"image/019887_black_side_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/019887_black_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2055" gender="men"  category="Straight Jeans" brand="Levi's">
+        <name>LEVI'S 514 STRAIGHT JEAN IN CORBEN</name>
+        <price>159.99</price>
+        <sale>New in</sale>
+        <image>
+            <pic>"image/019742_denim_l.jpg"</pic>
+            <pic>"image/019742_denim_back_l.jpg"</pic>
+            <pic>"image/019742_denim_outfit_l.jpg"</pic>
+            <pic>"image/019742_denim_side_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>100% Cotton</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/019742_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2056" gender="men"  category="Straight Jeans" brand="Levi's">
+        <name>LEVI'S 516 STRAIGHT IN STONEWASH</name>
+        <price>109.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/019588_denim_l.jpg"</pic>
+            <pic>"image/019588_denim_back_l.jpg"</pic>
+            <pic>"image/019588_denim_outfit_l.jpg"</pic>
+            <pic>"image/019588_denim_side_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>100% Cotton</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/019588_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2057" gender="men"  category="Straight Jeans" brand="Levi's">
+        <name>LEVI'S 516 STRAIGHT IN RINSE</name>
+        <price>109.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/019587_denim_l.jpg"</pic>
+            <pic>"image/019587_denim_back_l.jpg"</pic>
+            <pic>"image/019587_denim_outfit_l.jpg"</pic>
+            <pic>"image/019587_denim_side_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>100%cotton</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/019587_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2058" gender="men"  category="Straight Jeans" brand="Levi's">
+        <name>LEVI'S 516 STRAIGHT IN BLUE BLACK</name>
+        <price>129.99</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/019584_denim_l.jpg"</pic>
+            <pic>"image/019584_denim_back_l.jpg"</pic>
+            <pic>"image/019584_denim_outfit_l.jpg"</pic>
+            <pic>"image/019584_denim_side_l.jpg"</pic>
+            <pic>"image/019584_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>100% Cotton</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/019584_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2059" gender="men"  category="Straight Jeans" brand="Levi's">
+        <name>LEVI'S 514 STRAIGHT IN RINSEY</name>
+        <price>109.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/019576_denim_l.jpg"</pic>
+            <pic>"image/019576_denim_back_l.jpg"</pic>
+            <pic>"image/019576_denim_outfit_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>99% Cotton</type>
+            <type>1% Elastane</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/019576_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2060" gender="men"  category="Straight Jeans" brand="Levi's">
+        <name>LEVI'S 501 ORIGINAL STRAIGHT RINSE JEAN</name>
+        <price>119.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/017185_denim_l.jpg"</pic>
+            <pic>"image/017185_denim_back_l.jpg"</pic>
+            <pic>"image/017185_denim_outfit_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>100% Cotton</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/017185_denim_swatch.jpg"</available>
+        </color>
+    </product>
+                <!-- Men  Straight Jeans -->
+
+    <product id="m2061" gender="men"  category="Bootcut jeans" brand="Levi's">
+        <name>LEVIS 502 TAPER BOOT BOOGIE</name>
+        <price>169.90</price>
+        <sale>Regular</sale>
+        <image>
+            <pic>"image/010308_denim_l.jpg"</pic>
+            <pic>"image/010308_denim_back_l.jpg"</pic>
+            <pic>"image/010308_denim_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>77% Cotton</type>
+            <type>23% Hemp</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/010308_denim_swatch.jpg"</available>
+        </color>
+    </product>
+    <product id="m2062" gender="men"  category="Bootcut jeans" brand="Just Jeans">
+        <name>RIGID BOOTCUT JEAN</name>
+        <price>69.99</price>
+        <sale>On sale</sale>
+        <image>
+            <pic>"image/037140_indigocreek_l.jpg"</pic>
+            <pic>"image/037140_indigocreek_back_l.jpg"</pic>
+            <pic>"image/037140_indigocreek_outfit_l.jpg"</pic>
+            <pic>"image/037140_indigocreek_alt_l.jpg"</pic>
+        </image>
+        <fabric>
+            <type>100% Cotton</type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/037140_bluerevolution_swatch.jpg"</available>
+        </color>
+    </product>
+
+</store>
+
+
+
+<!--
+
+
+    <product id="" gender=""  category="" brand="">
+        <name></name>
+        <price></price>
+        <sale></sale>
+        <image>
+            <pic>"image/"</pic>
+            <pic>"image/"</pic>
+            <pic>"image/"</pic>
+        </image>
+        <fabric>
+            <type></type>
+            <type></type>
+        </fabric>
+        <stock>
+            <size><measurement>6</measurement><quantity>10 - left </quantity></size> 
+            <size><measurement>7</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>8</measurement><quantity>7 - left</quantity></size> 
+            <size><measurement>9</measurement><quantity>8 - left </quantity></size> 
+            <size><measurement>10</measurement><quantity>out of stock</quantity></size> 
+            <size><measurement>11</measurement><quantity>5 - left</quantity></size> 
+            <size><measurement>12</measurement><quantity>2 - left </quantity></size> 
+            <size><measurement>14</measurement><quantity>1 - left </quantity></size> 
+        </stock>
+        <color>
+            <available>"image/"</available>
+        </color>
+    </product>
+
+-->

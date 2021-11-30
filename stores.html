@@ -1,0 +1,722 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Top Jeans</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="style.css">
+         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script defer
+                src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAEmT0Ar7y7d71Z9u-IlhWbz0-xpnVtQ0Y&callback=initMap">
+        </script>
+        <script type="application/javascript" src="myScript.js"></script>
+    </head>
+    <body>
+
+        <!---------------------------------------------------------------------------------------------------------------->
+        <!---------------------------------------------------------------------------------------------------------------->
+        <!--Nav----------------------------------------------------------------------------------------------------------->
+           <nav id="main-nav">
+            <div class="nav-column">
+                <div>
+                    <a href="index.html">    <img src="image/topbanner/logo.jpg"></a>
+                </div>
+            </div>
+            
+            <div class="nav-column">
+                <div class="nav-row">
+                    <div class="menu-item">
+                        <div id="currency" class="menu-item-name">NZD</div>
+                        <div class="hover-menu">
+                            <div class="hover-menu-content">
+                               <a onclick="changeCurrency('NZD')">NZD</a>
+                                <a onclick="changeCurrency('AUD')">AUD</a>
+                            </div>
+                         
+                        </div>
+                    </div>
+                    <div class="menu-item">
+                        <div class="menu-item-name">
+                            <a href="saved_item.html"> <i class="fa fa-heart"></i></a>
+                        </div>
+                    </div>
+                    <div class="menu-item">
+                       <div class="menu-item-name">
+                        <a href="cart.html"> <i class="fa fa-shopping-cart"></i></a>
+
+                        </div>
+                    </div>
+                    <div id="cart_item" class="menu-item">0</div>
+                </div>
+                <div class="nav-row">
+                    <div class="menu-item">
+                        <div class="menu-item-name"><a href="index.html">Home</a></div>
+                    </div>
+                    <div class="menu-item">
+                        <div class="menu-item-name">New in</div>
+                        <div class="hover-menu">
+                            <div class="hover-menu-content">
+                                <div  class="row">
+                                    <div class="col-3">
+                                        <h2>Women Jeans</h2>
+                                        <div class="row">
+                                            <div class="col-2">
+                                                <h4>Shop by category</h4>
+                                                <ul id="women_new_in_category"></ul>
+                                            </div>
+                                            <div class="col-2">
+                                                <h4>Shop by brand</h4>
+                                                <ul id="women_new_in_brand"></ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-3">
+                                        <h2>Men Jeans</h2>
+                                        <div class="row">
+                                            <div class="col-2">
+                                                <h4>Shop by category</h4>
+                                                <ul id="men_new_in_category"></ul>
+                                            </div>
+                                            <div class="col-2">
+                                                <h4>shop by brand</h4>
+                                                <ul id="men_new_in_brand"></ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-3">
+                                        <img src="image/topbanner/feature-just-jeans.png">
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                    <div class="menu-item">
+                        <div class="menu-item-name"> On sale</div>
+                         <div class="hover-menu">
+                            <div class="hover-menu-content">
+                                <div  class="row">
+                                    <div class="col-3">
+                                        <h2>Women Jeans</h2>
+                                        <div class="row">
+                                            <div class="col-2">
+                                                <h4>Shop by category</h4>
+                                                <ul id="women_on_sale_category"></ul>
+                                            </div>
+                                            <div class="col-2">
+                                                <h4>Shop by brand</h4>
+                                                <ul id="women_on_sale_brand"></ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-3">
+                                        <h2>Men Jeans</h2>
+                                        <div class="row">
+                                            <div class="col-2">
+                                                <h4>Shop by category</h4>
+                                                <ul id="men_on_sale_category"></ul>
+                                            </div>
+                                            <div class="col-2">
+                                                <h4>shop by brand</h4>
+                                                <ul id="men_on_sale_brand"></ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-3">
+                                        <img src="image/topbanner/Denim-at-Target.jpg">
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                            
+                        </div>
+                       
+                    </div>
+                    <div class="menu-item">
+                        <div class="menu-item-name">Men</div>
+                         <div class="hover-menu">
+                            <div class="hover-menu-content">
+                                <div  class="row">
+                                    <div class="col-3">
+                                        <h2>Shop by category</h2>
+                                        <div class="row">
+                                            <div class="col-2">
+                                                <ul id="men_all_category"></ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-3">
+                                        <h2>Shop by brand</h2>
+                                        <div class="row">
+                                            <div class="col-2">
+                                                <ul id="men_all_brand"></ul>
+                                            </div> 
+                                        </div>
+                                    </div>
+                                    <div class="col-3">
+                                        <img src="image/topbanner/67282380_441636766689646_548396654307311616_o.jpg">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="menu-item">
+                        <div class="menu-item-name">Women</div>
+                         <div class="hover-menu">
+                            <div class="hover-menu-content">
+                                <div  class="row">
+                                    <div class="col-3">
+                                        <h2>Shop by category</h2>
+                                        <div class="row">
+                                            <div class="col-2">
+                                                <ul id="women_all_category"></ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-3">
+                                        <h2>Shop by brand</h2>
+                                        <div class="row">
+                                            <div class="col-2">
+                                                <ul id="women_all_brand"></ul>
+                                            </div> 
+                                        </div>
+                                    </div>
+                                    <div class="col-3">
+                                        <img src="image/topbanner/jcrew-2012-fall-autumn-womens-denim-jeans-collection-01x.jpg">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+        <!--End: Nav---------------------------------------------------------------------------------------------------->
+        <!---------------------------------------------------------------------------------------------------------------->
+        <!---------------------------------------------------------------------------------------------------------------->
+        
+        <!---------------------------------------------------------------------------------------------------------------->
+        <!---------------------------------------------------------------------------------------------------------------->
+        <!--Nav----------------------------------------------------------------------------------------------------------->
+           <nav id="mobile-nav">
+            <div class="nav-column">                
+                <a href="index.html"> <img src="image/topbanner/logo.jpg"></a>
+            </div>
+            <div class="nav-column">
+                <a><i onclick="expandMobileNav(this, '.mobile-nav-content')" class="fa fa-bars"></i> </a>
+                <div class="mobile-nav-content">
+                    <div class="row">
+                         <div class="nav-row">
+                                <div class="menu-item">
+                                    <div id="currency-1" class="menu-item-name">NZD</div>
+                                    <div class="hover-menu">
+                                        <div class="hover-menu-content">
+                                           <a onclick="changeCurrency('NZD')">NZD</a>
+                                            <a onclick="changeCurrency('AUD')">AUD</a>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div class="menu-item">
+                                    <div class="menu-item-name">
+                                        <a href="saved_item.html"> <i class="fa fa-heart"></i></a>
+                                    </div>
+                                </div>
+                                <div class="menu-item">
+                                   <div class="menu-item-name">
+                                    <a href="cart.html"> <i class="fa fa-shopping-cart"></i></a>
+
+                                    </div>
+                                </div>
+                                <div id="cart_item_1" class="menu-item">0</div>
+                            </div>
+                        <div class="nav-row">
+                            <div class="menu-item">
+                                <div class="menu-item-name">
+                                    <a href="index.html">Home</a>
+                                    <div class="menu-item-content-collapse"><i onclick="expandNavOption(this, '#home-page')" class="fa fa-plus"></i></div>
+
+                                </div>
+                                <ul id="home-page">
+                                    
+                                        
+                                        <li> <a href="index.html">Home</a></li>
+                                    
+                                    
+                                   
+                                </ul>
+                            </div>
+                            
+                        </div>
+                        <div class="nav-row">
+                            <div class="menu-item">
+                                <div class="menu-item-name">
+                                    New In
+                                    <div class="menu-item-content-collapse"><i onclick="expandNavOption(this, '#mob-new-in')" class="fa fa-plus"></i></div>
+                                </div>
+                                <div id="mob-new-in">
+                                    <div class="nav-row">
+                                        <div class="menu-item">
+                                            <div class="menu-item-name">
+                                                Women
+                                                <div class="menu-item-content-collapse"><i  onclick="expandNavOption(this, '#mob-new-in-women')" class="fa fa-plus"></i></div>
+                                            </div>
+                                             <div id="mob-new-in-women">
+                                                <div class="nav-row">
+                                                    <div class="menu-item">
+                                                        <div class="menu-item-name">
+                                                            Shop by category
+                                                            <div class="menu-item-content-collapse"><i  onclick="expandNavOption(this, '#mob-new-in-women-category')" class="fa fa-plus"></i></div>
+                                                        </div>
+                                                        <ul id="mob-new-in-women-category">
+                                                                                                
+                                                        </ul>
+
+                                                    </div>
+                                                </div>
+
+                                                 <div class="nav-row">
+                                                    <div class="menu-item">
+                                                        <div class="menu-item-name">
+                                                            Shop by brand;
+                                                            <div class="menu-item-content-collapse"><i  onclick="expandNavOption(this, '#mob-new-in-women-brand')" class="fa fa-plus"></i></div>
+                                                        </div>
+                                                          <ul id="mob-new-in-women-brand">
+                                                                                                
+                                                        </ul>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                     <div class="nav-row">
+                                        <div class="menu-item">
+                                            <div class="menu-item-name">
+                                                Men
+                                                <div class="menu-item-content-collapse"><i  onclick="expandNavOption(this, '#mob-new-in-men')" class="fa fa-plus"></i></div>
+                                            </div>
+                                             <div id="mob-new-in-men">
+                                                <div class="nav-row">
+                                                    <div class="menu-item">
+                                                        <div class="menu-item-name">
+                                                            Shop by category
+                                                            <div class="menu-item-content-collapse"><i onclick="expandNavOption(this, '#mob-new-in-men-category')" class="fa fa-plus"></i></div>
+                                                        </div>
+                                                        <ul id="mob-new-in-men-category">
+                                                                                                
+                                                        </ul>
+
+                                                    </div>
+                                                </div>
+
+                                                 <div class="nav-row">
+                                                    <div class="menu-item">
+                                                        <div class="menu-item-name">
+                                                            Shop by brand;
+                                                            <div class="menu-item-content-collapse"><i  onclick="expandNavOption(this, '#mob-new-in-men-brand')" class="fa fa-plus"></i></div>
+                                                        </div>
+                                                          <ul id="mob-new-in-men-brand">
+                                                                                                
+                                                        </ul>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                                
+                            </div>
+                            
+                        </div>
+                        
+                        <div class="nav-row">
+                            <div class="menu-item">
+                                <div class="menu-item-name">
+                                    On sale
+                                    <div class="menu-item-content-collapse"><i  onclick="expandNavOption(this, '#mob-on-sale')" class="fa fa-plus"></i></div>
+                                </div>
+                                <div id="mob-on-sale">
+                                    <div class="nav-row">
+                                        <div class="menu-item">
+                                            <div class="menu-item-name">
+                                                Women
+                                                <div class="menu-item-content-collapse"><i  onclick="expandNavOption(this, '#mob-on-sale-women')" class="fa fa-plus"></i></div>
+                                            </div>
+                                             <div id="mob-on-sale-women">
+                                                <div class="nav-row">
+                                                    <div class="menu-item">
+                                                        <div class="menu-item-name">
+                                                            Shop by category
+                                                            <div class="menu-item-content-collapse"><i onclick="expandNavOption(this, '#mob-on-sale-women-category')" class="fa fa-plus"></i></div>
+                                                        </div>
+                                                        <ul id="mob-on-sale-women-category">
+                                                                                                
+                                                        </ul>
+
+                                                    </div>
+                                                </div>
+
+                                                 <div class="nav-row">
+                                                    <div class="menu-item">
+                                                        <div class="menu-item-name">
+                                                            Shop by brand;
+                                                            <div class="menu-item-content-collapse"><i onclick="expandNavOption(this, '#mob-on-sale-women-brand')" class="fa fa-plus"></i></div>
+                                                        </div>
+                                                          <ul id="mob-on-sale-women-brand">
+                                                                                                
+                                                        </ul>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                     <div class="nav-row">
+                                        <div class="menu-item">
+                                            <div class="menu-item-name">
+                                                Men
+                                                <div class="menu-item-content-collapse"><i onclick="expandNavOption(this, '#mob-on-sale-men')" class="fa fa-plus"></i></div>
+                                            </div>
+                                             <div id="mob-on-sale-men">
+                                                <div class="nav-row">
+                                                    <div class="menu-item">
+                                                        <div class="menu-item-name">
+                                                            Shop by category
+                                                            <div class="menu-item-content-collapse"><i  onclick="expandNavOption(this, '#mob-on-sale-men-category')" class="fa fa-plus"></i></div>
+                                                        </div>
+                                                        <ul id="mob-on-sale-men-category">
+                                                                                                
+                                                        </ul>
+
+                                                    </div>
+                                                </div>
+
+                                                 <div class="nav-row">
+                                                    <div class="menu-item">
+                                                        <div class="menu-item-name">
+                                                            Shop by brand;
+                                                            <div class="menu-item-content-collapse"><i onclick="expandNavOption(this, '#mob-on-sale-men-brand')" class="fa fa-plus"></i></div>
+                                                        </div>
+                                                          <ul id="mob-on-sale-men-brand">
+                                                                                                
+                                                        </ul>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="nav-row">
+                            <div class="menu-item">
+                                <div class="menu-item-name">
+                                    Women
+                                    <div class="menu-item-content-collapse"><i  onclick="expandNavOption(this, '#mob-all-women')" class="fa fa-plus"></i></div>
+                                </div>
+                                <div id="mob-all-women">
+                                   <div class="nav-row">
+                                        <div class="menu-item">
+                                            <div class="menu-item-name">
+                                                Shop by category
+                                                <div class="menu-item-content-collapse"><i  onclick="expandNavOption(this, '#mob-all-women-category')" class="fa fa-plus"></i></div>
+                                            </div>
+                                            <ul id="mob-all-women-category">
+
+                                            </ul>
+
+                                        </div>
+                                    </div>
+
+                                     <div class="nav-row">
+                                        <div class="menu-item">
+                                            <div class="menu-item-name">
+                                                Shop by brand;
+                                                <div class="menu-item-content-collapse"><i  onclick="expandNavOption(this, '#mob-all-women-brand')" class="fa fa-plus"></i></div>
+                                            </div>
+                                              <ul id="mob-all-women-brand">
+
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div> 
+                        <div class="nav-row">
+                        
+                            <div class="menu-item">
+                                
+                                <div class="menu-item-name">
+                                    Men
+                                    <div class="menu-item-content-collapse"><i  onclick="expandNavOption(this, '#mob-all-men')" class="fa fa-plus"></i></div>
+                                </div>
+                                
+                                <div id="mob-all-men">
+                                   <div class="nav-row">
+                                        <div class="menu-item">
+                                            <div class="menu-item-name">
+                                                Shop by category
+                                                <div class="menu-item-content-collapse"><i onclick="expandNavOption(this, '#mob-all-men-category')" class="fa fa-plus"></i></div>
+                                            </div>
+                                            <ul id="mob-all-men-category">
+
+                                            </ul>
+
+                                        </div>
+                                    </div>
+
+                                     <div class="nav-row">
+                                        <div class="menu-item">
+                                            <div class="menu-item-name">
+                                                Shop by brand;
+                                                <div class="menu-item-content-collapse"><i onclick="expandNavOption(this, '#mob-all-men-brand')" class="fa fa-plus"></i></div>
+                                            </div>
+                                              <ul id="mob-all-men-brand">
+
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                    
+                </div>
+            </div>
+        </nav>
+        <!--End: Nav---------------------------------------------------------------------------------------------------->
+        <!---------------------------------------------------------------------------------------------------------------->
+        <!---------------------------------------------------------------------------------------------------------------->
+        
+        
+       
+        <!--Body Contiainer--- width:1600px-------------------------------------------------------------------------------> 
+        <div class="body-container">
+            <div class="sub-section">
+                 <div class="heading">Our stores</div>
+            
+            <div class="row store">
+            
+                <div class="col-2">
+                    <div class="row">
+                        <div class="col-1">
+                            <div class="content">
+                                <p>Shop No: 414B</p>
+                                <p>Grand central mall</p>
+                                <p>26 Te Taou crescent</p>
+                                <p>Auckland CBD, 1010</p>
+                                <p>New Zealand</p>
+                            </div>
+                        </div>
+                        
+                        <div class="col-1">
+                            
+                               <div class="content">
+                                <p>Shop No: 214A</p>
+                                <p>Westpac Karori mall</p>
+                                <p>250 Karori road</p>
+                                <p>wellington, 1010</p>
+                                <p>New Zealand</p>
+                            </div>
+                            
+                        </div> 
+                        
+                        <div class="col-1">    
+                               <div class="content">
+                                <p>Shop No: 32A</p>
+                                <p>WestField Sydney</p>
+                                <p>Market st</p>
+                                <p>Syndeny, NSW 2000</p>
+                                <p>Australia</p>
+                            </div>
+                            
+                        </div>
+                        <div class="col-1">
+                          <div class="content">
+                                <p>Shop No: 96B</p>
+                                <p>Eastland shopping centre</p>
+                                <p>175 Maroondah Hwy,</p>
+                                <p>Ringwood, VIC3134</p>
+                                <p>Australia</p>
+                            </div>
+                        
+                        </div>
+                        
+                      
+                        
+                        
+                    </div>
+                
+                </div>
+                <div class="col-2">
+                    <div id="map" class="content">
+                    
+                    </div>
+                
+                </div>
+            </div>
+            
+            </div>
+          
+
+        </div>
+        <!--End: Body Container------------------------------------------------------------------------------------------->
+        
+        
+
+    <!-------------------------------------------------------------------------->    
+    <!--------------------------- footer----------------------------------------->    
+    <!-------------------------------------------------------------------------->      
+    <footer>
+            <div class="body-container">
+                <div class="row">
+                    <div class="col-2">
+                       <div class="row">
+                             <div class="col-3">
+                                <div class="content">
+                                    <div class="footer-block">
+                                        <h3>Shop location</h3>
+                                        <div class="mob-control"><i onclick="footerOptionExpand(this)" class="fa fa-plus"></i></div>
+                                        <div class="footer-block-link">
+                                            <a href="stores.html">Find the nearest one</a>
+                                        </div>
+                                    </div>
+                                  
+                                    <div class="footer-block">
+                                        <h3> About us</h3>
+                                        <div class="mob-control"><i onclick="footerOptionExpand(this)" class="fa fa-plus"></i></div>
+                                        <div class="footer-block-link">
+                                            <a href="about.html">About Top jeans</a>
+                                            <a href="careers.html">Careers</a>
+                                            <a href="terms_condition.html">Terms and Conditions</a>
+                                        </div>
+
+                                        
+                                    </div>
+                                
+
+                                </div>
+                        </div>
+                        <div class="col-3">
+                            <div class="content">
+                                <div class="footer-block">
+                                    <h3>New In</h3>
+                                    <div class="mob-control"><i onclick="footerOptionExpand(this)" class="fa fa-plus"></i></div>
+                                    <div class="footer-block-link">
+                                         <a href="product.html" onclick="filter('men','New in', 'All', 'All')">Men</a>
+                                        <a href="product.html" onclick="filter('women','New in', 'All', 'All')">Women</a>
+                                    </div>    
+                                </div> 
+                                
+                                <div class="footer-block">
+                                    <h3>On Sale</h3>
+                                    <div class="mob-control"><i onclick="footerOptionExpand(this)" class="fa fa-plus"></i></div>
+                                    <div class="footer-block-link">
+                                        <a href="product.html" onclick="filter('men','On sale', 'All', 'All')">Men</a>
+                                        <a href="product.html" onclick="filter('women','On sale', 'All', 'All')">Women</a>
+                                    </div>    
+                                </div>
+                               
+                                
+                              
+                            </div>
+                        </div>
+                        
+                        
+                        <div class="col-3">
+                            <div class="content">
+                                <div class="footer-block">
+                                    <h3>Fit Guide</h3>
+                                    <div class="mob-control"><i onclick="footerOptionExpand(this)" class="fa fa-plus"></i></div>
+                                    <div class="footer-block-link">
+                                        <a onclick="displySizeGuide('men')">Men</a>
+                                        <a onclick="displySizeGuide('women')">Women</a>
+                                    </div>
+
+                                
+                                </div>
+                               
+                                <div class="footer-block">
+                                    <h3>Others</h3>
+                                    <div class="mob-control"><i onclick="footerOptionExpand(this)" class="fa fa-plus"></i></div>
+                                    <div class="footer-block-link">
+                                        <a href="cart.html">Shopping-Cart</a>
+                                        <a href="saved_item.html">Saved Item</a>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                    
+                    
+                    <div class="col-2">
+                        <div class="row">
+                            <div class="col-1">
+                                <div class="content">
+                                    <div class="footer-block">
+                                        <h3>Drop your email address</h3>
+                                        <div class="mob-control"><i onclick="footerOptionExpand(this)" class="fa fa-plus"></i></div>
+                                        <div class="footer-block-link">
+                                            <p>Join with us for newsletter and other related articales. We will also inform you all the new collection once arravied and the discount at our stores.</p>
+                                            <form>
+                                                <input type="email" name="email" placeholder="Email">
+                                                <input onclick="sendEmail()" type="button" value="JOIN">
+                                            </form>
+                                        </div>
+
+                                    </div>
+                                    
+                                   <div class="social-links">
+                                        <i class="fa fa-facebook-official"></i>
+                                        <i class="fa fa-instagram"></i>
+                                        <i class="fa fa-snapchat"></i>
+                                        <i class="fa fa-pinterest-p"></i>
+                                        <i class="fa fa-twitter"></i>
+                                        <i class="fa fa-linkedin"></i>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+            
+            </div>
+            <div class="row copyright"> Copyright reserved by Rajib Dey</div>
+
+        </footer>
+    <!-------------------------------------------------------------------------->    
+    <!--------------------------- End:footer----------------------------------------->    
+    <!-------------------------------------------------------------------------->          
+      
+        <script>
+         setTimeout(()=>{
+             loadNav();
+      
+             
+         }, 1000);
+            
+           // loadMap(-36.848401, 174.776235);
+
+        </script>
+
+    </body>
+</html>

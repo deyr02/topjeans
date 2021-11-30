@@ -1,0 +1,1343 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Top Jeans</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="style.css">
+         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script type="application/javascript" src="myScript.js"></script>
+    </head>
+    <body>
+        
+        
+
+        <!---------------------------------------------------------------------------------------------------------------->
+        <!---------------------------------------------------------------------------------------------------------------->
+        <!--Nav----------------------------------------------------------------------------------------------------------->
+           <nav id="main-nav">
+            <div class="nav-column">
+                <div>
+                    <a href="index.html">    <img src="image/topbanner/logo.jpg"></a>
+                </div>
+            </div>
+            
+            <div class="nav-column">
+                <div class="nav-row">
+                    <div class="menu-item">
+                        <div id="currency" class="menu-item-name">NZD</div>
+                        <div class="hover-menu">
+                            <div class="hover-menu-content">
+                               <a onclick="changeCurrency('NZD')">NZD</a>
+                                <a onclick="changeCurrency('AUD')">AUD</a>
+                            </div>
+                         
+                        </div>
+                    </div>
+                    <div class="menu-item">
+                        <div class="menu-item-name">
+                            <a href="saved_item.html"> <i class="fa fa-heart"></i></a>
+                        </div>
+                    </div>
+                    <div class="menu-item">
+                       <div class="menu-item-name">
+                        <a href="cart.html"> <i class="fa fa-shopping-cart"></i></a>
+
+                        </div>
+                    </div>
+                    <div id="cart_item" class="menu-item">0</div>
+                </div>
+                <div class="nav-row">
+                    <div class="menu-item">
+                        <div class="menu-item-name"><a href="index.html">Home</a></div>
+                    </div>
+                    <div class="menu-item">
+                        <div class="menu-item-name">New in</div>
+                        <div class="hover-menu">
+                            <div class="hover-menu-content">
+                                <div  class="row">
+                                    <div class="col-3">
+                                        <h2>Women Jeans</h2>
+                                        <div class="row">
+                                            <div class="col-2">
+                                                <h4>Shop by category</h4>
+                                                <ul id="women_new_in_category"></ul>
+                                            </div>
+                                            <div class="col-2">
+                                                <h4>Shop by brand</h4>
+                                                <ul id="women_new_in_brand"></ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-3">
+                                        <h2>Men Jeans</h2>
+                                        <div class="row">
+                                            <div class="col-2">
+                                                <h4>Shop by category</h4>
+                                                <ul id="men_new_in_category"></ul>
+                                            </div>
+                                            <div class="col-2">
+                                                <h4>shop by brand</h4>
+                                                <ul id="men_new_in_brand"></ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-3">
+                                        <img src="image/topbanner/feature-just-jeans.png">
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                    <div class="menu-item">
+                        <div class="menu-item-name"> On sale</div>
+                         <div class="hover-menu">
+                            <div class="hover-menu-content">
+                                <div  class="row">
+                                    <div class="col-3">
+                                        <h2>Women Jeans</h2>
+                                        <div class="row">
+                                            <div class="col-2">
+                                                <h4>Shop by category</h4>
+                                                <ul id="women_on_sale_category"></ul>
+                                            </div>
+                                            <div class="col-2">
+                                                <h4>Shop by brand</h4>
+                                                <ul id="women_on_sale_brand"></ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-3">
+                                        <h2>Men Jeans</h2>
+                                        <div class="row">
+                                            <div class="col-2">
+                                                <h4>Shop by category</h4>
+                                                <ul id="men_on_sale_category"></ul>
+                                            </div>
+                                            <div class="col-2">
+                                                <h4>shop by brand</h4>
+                                                <ul id="men_on_sale_brand"></ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-3">
+                                        <img src="image/topbanner/Denim-at-Target.jpg">
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                            
+                        </div>
+                       
+                    </div>
+                    <div class="menu-item">
+                        <div class="menu-item-name">Men</div>
+                         <div class="hover-menu">
+                            <div class="hover-menu-content">
+                                <div  class="row">
+                                    <div class="col-3">
+                                        <h2>Shop by category</h2>
+                                        <div class="row">
+                                            <div class="col-2">
+                                                <ul id="men_all_category"></ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-3">
+                                        <h2>Shop by brand</h2>
+                                        <div class="row">
+                                            <div class="col-2">
+                                                <ul id="men_all_brand"></ul>
+                                            </div> 
+                                        </div>
+                                    </div>
+                                    <div class="col-3">
+                                        <img src="image/topbanner/67282380_441636766689646_548396654307311616_o.jpg">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="menu-item">
+                        <div class="menu-item-name">Women</div>
+                         <div class="hover-menu">
+                            <div class="hover-menu-content">
+                                <div  class="row">
+                                    <div class="col-3">
+                                        <h2>Shop by category</h2>
+                                        <div class="row">
+                                            <div class="col-2">
+                                                <ul id="women_all_category"></ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-3">
+                                        <h2>Shop by brand</h2>
+                                        <div class="row">
+                                            <div class="col-2">
+                                                <ul id="women_all_brand"></ul>
+                                            </div> 
+                                        </div>
+                                    </div>
+                                    <div class="col-3">
+                                        <img src="image/topbanner/jcrew-2012-fall-autumn-womens-denim-jeans-collection-01x.jpg">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+        <!--End: Nav---------------------------------------------------------------------------------------------------->
+        <!---------------------------------------------------------------------------------------------------------------->
+        <!---------------------------------------------------------------------------------------------------------------->
+        
+        <!---------------------------------------------------------------------------------------------------------------->
+        <!---------------------------------------------------------------------------------------------------------------->
+        <!--Nav----------------------------------------------------------------------------------------------------------->
+           <nav id="mobile-nav">
+            <div class="nav-column">                
+                <a href="index.html"> <img src="image/topbanner/logo.jpg"></a>
+            </div>
+            <div class="nav-column">
+                <a><i onclick="expandMobileNav(this, '.mobile-nav-content')" class="fa fa-bars"></i> </a>
+                <div class="mobile-nav-content">
+                    <div class="row">
+                         <div class="nav-row">
+                                <div class="menu-item">
+                                    <div id="currency-1" class="menu-item-name">NZD</div>
+                                    <div class="hover-menu">
+                                        <div class="hover-menu-content">
+                                           <a onclick="changeCurrency('NZD')">NZD</a>
+                                            <a onclick="changeCurrency('AUD')">AUD</a>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div class="menu-item">
+                                    <div class="menu-item-name">
+                                        <a href="saved_item.html"> <i class="fa fa-heart"></i></a>
+                                    </div>
+                                </div>
+                                <div class="menu-item">
+                                   <div class="menu-item-name">
+                                    <a href="cart.html"> <i class="fa fa-shopping-cart"></i></a>
+
+                                    </div>
+                                </div>
+                                <div id="cart_item_1" class="menu-item">0</div>
+                            </div>
+                        <div class="nav-row">
+                            <div class="menu-item">
+                                <div class="menu-item-name">
+                                    <a href="index.html">Home</a>
+                                    <div class="menu-item-content-collapse"><i onclick="expandNavOption(this, '#home-page')" class="fa fa-plus"></i></div>
+
+                                </div>
+                                <ul id="home-page">
+                                    
+                                        
+                                        <li> <a href="index.html">Home</a></li>
+                                    
+                                    
+                                   
+                                </ul>
+                            </div>
+                            
+                        </div>
+                        <div class="nav-row">
+                            <div class="menu-item">
+                                <div class="menu-item-name">
+                                    New In
+                                    <div class="menu-item-content-collapse"><i onclick="expandNavOption(this, '#mob-new-in')" class="fa fa-plus"></i></div>
+                                </div>
+                                <div id="mob-new-in">
+                                    <div class="nav-row">
+                                        <div class="menu-item">
+                                            <div class="menu-item-name">
+                                                Women
+                                                <div class="menu-item-content-collapse"><i  onclick="expandNavOption(this, '#mob-new-in-women')" class="fa fa-plus"></i></div>
+                                            </div>
+                                             <div id="mob-new-in-women">
+                                                <div class="nav-row">
+                                                    <div class="menu-item">
+                                                        <div class="menu-item-name">
+                                                            Shop by category
+                                                            <div class="menu-item-content-collapse"><i  onclick="expandNavOption(this, '#mob-new-in-women-category')" class="fa fa-plus"></i></div>
+                                                        </div>
+                                                        <ul id="mob-new-in-women-category">
+                                                                                                
+                                                        </ul>
+
+                                                    </div>
+                                                </div>
+
+                                                 <div class="nav-row">
+                                                    <div class="menu-item">
+                                                        <div class="menu-item-name">
+                                                            Shop by brand;
+                                                            <div class="menu-item-content-collapse"><i  onclick="expandNavOption(this, '#mob-new-in-women-brand')" class="fa fa-plus"></i></div>
+                                                        </div>
+                                                          <ul id="mob-new-in-women-brand">
+                                                                                                
+                                                        </ul>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                     <div class="nav-row">
+                                        <div class="menu-item">
+                                            <div class="menu-item-name">
+                                                Men
+                                                <div class="menu-item-content-collapse"><i  onclick="expandNavOption(this, '#mob-new-in-men')" class="fa fa-plus"></i></div>
+                                            </div>
+                                             <div id="mob-new-in-men">
+                                                <div class="nav-row">
+                                                    <div class="menu-item">
+                                                        <div class="menu-item-name">
+                                                            Shop by category
+                                                            <div class="menu-item-content-collapse"><i onclick="expandNavOption(this, '#mob-new-in-men-category')" class="fa fa-plus"></i></div>
+                                                        </div>
+                                                        <ul id="mob-new-in-men-category">
+                                                                                                
+                                                        </ul>
+
+                                                    </div>
+                                                </div>
+
+                                                 <div class="nav-row">
+                                                    <div class="menu-item">
+                                                        <div class="menu-item-name">
+                                                            Shop by brand;
+                                                            <div class="menu-item-content-collapse"><i  onclick="expandNavOption(this, '#mob-new-in-men-brand')" class="fa fa-plus"></i></div>
+                                                        </div>
+                                                          <ul id="mob-new-in-men-brand">
+                                                                                                
+                                                        </ul>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                                
+                            </div>
+                            
+                        </div>
+                        
+                        <div class="nav-row">
+                            <div class="menu-item">
+                                <div class="menu-item-name">
+                                    On sale
+                                    <div class="menu-item-content-collapse"><i  onclick="expandNavOption(this, '#mob-on-sale')" class="fa fa-plus"></i></div>
+                                </div>
+                                <div id="mob-on-sale">
+                                    <div class="nav-row">
+                                        <div class="menu-item">
+                                            <div class="menu-item-name">
+                                                Women
+                                                <div class="menu-item-content-collapse"><i  onclick="expandNavOption(this, '#mob-on-sale-women')" class="fa fa-plus"></i></div>
+                                            </div>
+                                             <div id="mob-on-sale-women">
+                                                <div class="nav-row">
+                                                    <div class="menu-item">
+                                                        <div class="menu-item-name">
+                                                            Shop by category
+                                                            <div class="menu-item-content-collapse"><i onclick="expandNavOption(this, '#mob-on-sale-women-category')" class="fa fa-plus"></i></div>
+                                                        </div>
+                                                        <ul id="mob-on-sale-women-category">
+                                                                                                
+                                                        </ul>
+
+                                                    </div>
+                                                </div>
+
+                                                 <div class="nav-row">
+                                                    <div class="menu-item">
+                                                        <div class="menu-item-name">
+                                                            Shop by brand;
+                                                            <div class="menu-item-content-collapse"><i onclick="expandNavOption(this, '#mob-on-sale-women-brand')" class="fa fa-plus"></i></div>
+                                                        </div>
+                                                          <ul id="mob-on-sale-women-brand">
+                                                                                                
+                                                        </ul>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                     <div class="nav-row">
+                                        <div class="menu-item">
+                                            <div class="menu-item-name">
+                                                Men
+                                                <div class="menu-item-content-collapse"><i onclick="expandNavOption(this, '#mob-on-sale-men')" class="fa fa-plus"></i></div>
+                                            </div>
+                                             <div id="mob-on-sale-men">
+                                                <div class="nav-row">
+                                                    <div class="menu-item">
+                                                        <div class="menu-item-name">
+                                                            Shop by category
+                                                            <div class="menu-item-content-collapse"><i  onclick="expandNavOption(this, '#mob-on-sale-men-category')" class="fa fa-plus"></i></div>
+                                                        </div>
+                                                        <ul id="mob-on-sale-men-category">
+                                                                                                
+                                                        </ul>
+
+                                                    </div>
+                                                </div>
+
+                                                 <div class="nav-row">
+                                                    <div class="menu-item">
+                                                        <div class="menu-item-name">
+                                                            Shop by brand;
+                                                            <div class="menu-item-content-collapse"><i onclick="expandNavOption(this, '#mob-on-sale-men-brand')" class="fa fa-plus"></i></div>
+                                                        </div>
+                                                          <ul id="mob-on-sale-men-brand">
+                                                                                                
+                                                        </ul>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="nav-row">
+                            <div class="menu-item">
+                                <div class="menu-item-name">
+                                    Women
+                                    <div class="menu-item-content-collapse"><i  onclick="expandNavOption(this, '#mob-all-women')" class="fa fa-plus"></i></div>
+                                </div>
+                                <div id="mob-all-women">
+                                   <div class="nav-row">
+                                        <div class="menu-item">
+                                            <div class="menu-item-name">
+                                                Shop by category
+                                                <div class="menu-item-content-collapse"><i  onclick="expandNavOption(this, '#mob-all-women-category')" class="fa fa-plus"></i></div>
+                                            </div>
+                                            <ul id="mob-all-women-category">
+
+                                            </ul>
+
+                                        </div>
+                                    </div>
+
+                                     <div class="nav-row">
+                                        <div class="menu-item">
+                                            <div class="menu-item-name">
+                                                Shop by brand;
+                                                <div class="menu-item-content-collapse"><i  onclick="expandNavOption(this, '#mob-all-women-brand')" class="fa fa-plus"></i></div>
+                                            </div>
+                                              <ul id="mob-all-women-brand">
+
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div> 
+                        <div class="nav-row">
+                        
+                            <div class="menu-item">
+                                
+                                <div class="menu-item-name">
+                                    Men
+                                    <div class="menu-item-content-collapse"><i  onclick="expandNavOption(this, '#mob-all-men')" class="fa fa-plus"></i></div>
+                                </div>
+                                
+                                <div id="mob-all-men">
+                                   <div class="nav-row">
+                                        <div class="menu-item">
+                                            <div class="menu-item-name">
+                                                Shop by category
+                                                <div class="menu-item-content-collapse"><i onclick="expandNavOption(this, '#mob-all-men-category')" class="fa fa-plus"></i></div>
+                                            </div>
+                                            <ul id="mob-all-men-category">
+
+                                            </ul>
+
+                                        </div>
+                                    </div>
+
+                                     <div class="nav-row">
+                                        <div class="menu-item">
+                                            <div class="menu-item-name">
+                                                Shop by brand;
+                                                <div class="menu-item-content-collapse"><i onclick="expandNavOption(this, '#mob-all-men-brand')" class="fa fa-plus"></i></div>
+                                            </div>
+                                              <ul id="mob-all-men-brand">
+
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                    
+                </div>
+            </div>
+        </nav>
+        <!--End: Nav---------------------------------------------------------------------------------------------------->
+        <!---------------------------------------------------------------------------------------------------------------->
+        <!---------------------------------------------------------------------------------------------------------------->
+        
+        
+        
+        
+
+        
+       
+        <!--Body Contiainer--- width:1600px-------------------------------------------------------------------------------> 
+        <div class="body-container">
+            
+        <!--Body Container------------------------------------------------------------------------------------------------>
+        <!-----------------Header----------------------------------------------------------------------------------------->  
+            <header>
+                <div id="main_slide_show">
+                    <div  id="circular_block_list"> </div>
+                    <div class=slide>
+                        <img src="image/topbanner/Levis-Womens-Jeans-1280x720.png">
+                        <div class="slide-content">
+                         <a href="product.html"> <button  onclick="filter('women','On sale', 'All', 'All')">Shop now</button></a>
+
+                        </div>
+                    </div>  
+                    
+                    <div class="slide">
+                        <img src="image/topbanner/mensdenim10.jpg">
+                        <div class="slide-content">
+                            <h2>Brand New Collection</h2>
+                         <a href="product.html"> <button  onclick="filter('women','New in', 'All', 'All')">Shop now</button></a>
+
+                        </div>
+                       
+                        
+                    </div>
+                    
+                    <div class="slide">
+                        <img src="image/topbanner/IMG_6450.jpg">
+                         <div class="slide-content">
+                            <h2>Super Comfortable</h2>
+                            <h2>Super Stylist</h2>
+                            <p>Check out Our Mens Collection</p>
+                             <a href="product.html"> <button  onclick="filter('men','New in', 'All', 'All')">Shop now</button></a>
+                            
+                        </div>
+                    </div>
+                    <div class="slide">
+                        <img src="image/topbanner/denim-trends-today-main-190806_15c7546dcf648838b608d0e852abf0e7.jpg">
+                        <div class="slide-content">
+                            <div class="row">
+                                <div class="col-3">
+                                    <h2>Wear your dream jeans!</h2>
+                                </div>
+                                <div class="col-3">
+                                    <a href="product.html">   <button onclick="filter('men','On sale', 'All', 'All')">Shop Now</button></a>
+                                </div>
+                                <div class="col-3">
+                                    <h2>We are back on Sale!</h2>
+                                </div>
+                            </div>
+                        
+                        </div>
+                    </div> 
+                    <div class="slide">
+                        <img src="image/topbanner/ebc773f2943fd81b5eca5425090052db.jpg">
+                        <div class="slide-content">
+                            <button onclick="displySizeGuide('men')">Check</button>
+                        </div>
+                    </div>
+                   
+                </div>
+                
+            </header>
+        <!--End:header---------------------------------------------------------------------------------------------------->
+        <!---------------------------------------------------------------------------------------------------------------->
+        
+        <!--Body Container------------------------------------------------------------------------------------------------>
+        <!-----------------Secition: product block------------------------------------------------------------------------>  
+            <section id="index-product">
+                <div class="sub-section">
+                    <div class="sub-heading"> Men's Jeans collection</div>
+                    <div id="men-index-page">
+                        <!--product will display here-->
+                    </div>  
+                    <div class="more"><a href="product.html" onclick="filter('men','Any', 'All', 'All')">show more.....</a> </div>
+                </div>
+                
+                 <div class="sub-section">
+                    <div class="sub-heading"> Women's Jeans collection</div>
+                    <div id="women-index-page">
+                         <!--product will display here-->
+                    </div>  
+                    <div class="more"><a href="product.html" onclick="filter('women','Any', 'All', 'All')">show more.....</a> </div>
+
+                </div>
+            
+            </section>
+        <!-----------------EndSecition: product block--------------------------------------------------------------------->  
+        <!---------------------------------------------------------------------------------------------------------------->  
+        </div>
+        <!--End: Body Container------------------------------------------------------------------------------------------->
+        
+        
+        
+      
+
+        
+        
+        
+        
+        
+        
+    <!-------------------------------------------------------------------------->    
+    <!---------------------------Non deletable code----------------------------->    
+    <!-------------------------------------------------------------------------->    
+        
+        <!--
+                        <div class="row product">
+                            <div class="col-5">
+                                <div class="block">
+                                    <div class="block-img">
+                                        <img src="image/010030_denim_alt_l.jpg">
+                                        <img src="image/010030_denim_back_l.jpg">
+                                        <div class="sale-type">
+                                            <i class="fa fa-heart"></i>
+                                            <p class="sale">On sale</p>
+                                            <i class="fa fa-expand"></i>
+                                        </div>
+
+                                    </div>
+                                    <div class="block-details">
+                                        <div class="names"> Denim 123 skinny jeans</div>
+                                        <div class="row">
+                                            <div class="shop">
+                                                <i class="fa fa-shopping-cart"></i>
+                                            </div>
+                                            <div class="price">129.99</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+-->
+        <!--  don't delete the block    
+        <div class="product-review">
+            
+            <div class="container">
+                <div class="close-window"><i class="fa fa-window-close"></i></div>
+                <div class="names">Denim 123 Faded jeans</div>
+                <div class="row">
+                    <div class="col-2">
+                        <div class="content">
+                            <div class="row">
+                                <div class="col-1">
+                                    <div class="content">
+                                        <div class="row">
+                                            <div class="col-3">
+                                                <div id="previous" class="back-forth"><i class="fa fa-chevron-left"></i></div>
+                                            </div> 
+                                            <div class="col-3">
+                                                <img src="image/010030_denim_alt_l.jpg">
+
+                                            </div> 
+                                            <div class="col-3">
+                                                <div id="next" class="back-forth"><i class="fa fa-chevron-right"></i></div>
+
+                                            </div>
+                                            
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-1">
+                                    <div class="content">
+                                        <div class="row">
+                                    
+                                        <div class="col-5">
+                                            <div class="content">
+                                              <img src="image/010030_denim_alt_l.jpg">
+                                            </div>
+                                        </div> 
+                                        <div class="col-5">
+                                            <div class="content">
+                                              <img src="image/010030_denim_alt_l.jpg">
+                                            </div>
+                                        </div> 
+                                        <div class="col-5">
+                                            <div class="content">
+                                                <img src="image/010030_denim_back_l.jpg">
+                                            </div>
+                                        </div>
+                                        <div class="col-5">
+                                            <div class="content">
+                                                <img src="image/010030_denim_l.jpg">
+                                            </div>
+
+                                        </div>
+                                        <div class="col-5">
+                                            <div class="content">
+                                                <img src="image/010030_denim_back_l.jpg">
+                                            </div>
+
+                                        </div>
+                                        
+                                        
+                                        
+                                    </div>
+                                    </div>
+                                    
+                                    
+                                </div>
+                        
+                            </div>
+                        
+                        </div>
+                        
+                    </div>
+                    <div class="col-2">
+                        <div class="content">
+                            <div class="row">
+                                <div class="col-2">Price</div>
+                                <div class="col-2">129.99</div>
+                            </div>
+                            <div class="row">
+                                <div class="col-2">Sale</div>
+                                <div class="col-2">On sale</div>
+                            </div>
+                            <div class="row">
+                                <div class="col-2">Fit Type</div>
+                                <div class="col-2">Skinny</div>
+                            </div>
+                            <div class="row">
+                                <div class="col-2">Brand</div>
+                                <div class="col-2">Denim</div>
+                            </div>
+                            <div class="row">
+                                <div class="col-2">Fabric</div>
+                                <div class="col-2">
+                                    <ul>
+                                        <li>70% cotton</li>
+                                        <li>70% cotton</li>
+                                        <li>70% cotton</li>
+                                    </ul>
+                                
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-2">Colors</div>
+                                <div class="col-2">
+                                    <img src="image/010030_denim_swatch.jpg">
+                                </div>
+                        </div>
+                            <div class="row">
+                                <div class="col-1">
+                                    <div> 
+                                        <input type="text" name="ID" value="w1001" hidden>
+                                        <div class="row">
+                                            <div class="col-2">Size</div>
+                                            <div class="col-2">
+                                                <select id="jeans-size">
+                                                    <option value="size-6">Select as size</option>
+                                                    <option value="size-6">Size-6</option>
+                                                    <option value="size-7">Size-7</option>
+                                                    <option value="size-8">Size-8</option>
+                                                    <option value="size-9">Size-9</option>
+                                                    <option value="size-10">Size-10</option>
+                                                    <option value="size-11">Size-11</option>
+                                                    <option value="size-12">Size-12</option>
+                                                    <option value="size-13">Size-13</option>
+                                                   
+                                                </select>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-1">
+                                                <button type="submit"><i class="fa fa-shopping-cart"></i> Add to Cart</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-1">
+                                    <a>Save as favourite</a>
+                                </div>
+                            </div>
+                            
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+        -->
+        <!--
+        <div class="product-size-warning">
+            <div class="product-review">
+                <div class="container">
+                    <div class="close-window"><i class="fa fa-window-close"></i></div>
+                    <div class="row">
+                        <div class="col-2">
+                            <img src="image/topbanner/logo.jpg">
+                        </div>
+                        <div class="col-2">
+                            <div class="warning">Please Select the jeans size</div>
+                             <button>Ok</button>
+
+                        </div>
+                    </div>
+                   
+                </div>
+            </div>
+        </div>
+        -->
+        <div class="blur-background message" style ="display: none">
+            <div class="container">
+                <div class="close-window"><i class="fa fa-window-close"></i> </div>
+                <div class="content">
+                    <div class="row">
+                        <div class="col-2"><img src="image/topbanner/logo.jpg"></div>
+                        <div class="col-2"><h3>Your item has been added to the shopping-cart.</h3></div>
+                    </div>
+                    <a> Ok</a>
+                </div>
+
+            </div>
+        </div>
+        <div class="blur-background" style="display: none">
+            <div class="container">
+                <div class="close-window"><i class="fa fa-window-close"></i> </div>
+                <div class=" cart content">
+                    <div class="cart-heading">
+                        <img src="image/topbanner/top-jeans-cart-header.jpg">
+                        <div class="row">
+                            <div class="col-2"><i class="fa fa-shopping-cart"></i>Shopping Cart</div>    
+                            <div class="col-2">$ <span class="item-price cart-value"> 1099.99</span></div>    
+                        </div>
+                    </div>
+                    
+                    
+                    
+                    <div class="row cart-items">
+                        
+                        
+                        <div class="col-1">
+                            <div class="content">
+                                <i onclick="displayDetails(this)" class="fa fa-arrow-circle-down cart-item-collapse"></i>
+                                <h3>Denim 12c Slim regular</h3>
+                                <div class="item-price">129.99</div>
+                                
+                             <div class="row">
+                                <div class="col-5 img-content">
+                                    <img src="image/010030_denim_back_l.jpg">
+                                 </div>
+                                 
+                                 <div class="col-5">
+                                     <P><span>Fit-type</span>: <span>Skinny Jeanse</span></P>
+                                    <P><span>Brand</span>: <span>Lee</span></P>
+                                    <P><span>Size</span>: <span>Lee</span></P>
+                                    <P><span>Unit Price</span>: <span>$129.99</span></P>
+                                 </div>
+                                 <div class="col-5">
+                                    <a>Remove Item</a>
+                                     <a>More Details</a>
+                                 </div>
+                                 
+                                 <div class="col-5">
+                                    <i class="fa fa-plus-circle"></i>
+                                     <span>2</span> 
+                                    <i class="fa fa-minus-circle"></i>
+
+                                 </div>
+                                 
+                                 <div class="col-5">
+                                     <p><span>$259.98</span></p>
+                                     <p class="discount">30% discount applied</p>
+                                 </div>
+                                
+                            </div>
+                            
+                            </div>
+                           
+                        </div>
+                        
+                
+                         
+                       
+                        
+                        
+                        
+                        
+                        <div class="col-1">
+                            <div class="content">
+                                <i  onclick="displayDetails(this)" class="fa fa-arrow-circle-down cart-item-collapse"></i>
+                                <h3>Denim 12c Slim regular</h3>
+                                <div class="item-price">129.99</div>
+                                
+                             <div class="row">
+                                <div class="col-5 img-content">
+                                    <img src="image/010030_denim_back_l.jpg">
+                                 </div>
+                                 
+                                 <div class="col-5">
+                                     <P><span>Fit-type</span>: <span>Skinny Jeanse</span></P>
+                                    <P><span>Brand</span>: <span>Lee</span></P>
+                                    <P><span>Size</span>: <span>Lee</span></P>
+                                    <P><span>Unit Price</span>: <span>$129.99</span></P>
+                                 </div>
+                                 <div class="col-5">
+                                    <a>Remove Item</a>
+                                     <a>More Details</a>
+                                 </div>
+                                 
+                                 <div class="col-5">
+                                    <i class="fa fa-plus-circle"></i>
+                                     <span>2</span> 
+                                    <i class="fa fa-minus-circle"></i>
+
+                                 </div>
+                                 
+                                 <div class="col-5">
+                                    <p><span>$259.98</span></p>
+                                 </div>
+                                
+                            </div>
+                            
+                            </div>
+                           
+                        </div>
+                        
+                
+                         
+                       
+                        
+                        
+                        
+                        
+                        
+                        <div class="col-1">
+                            <div class="sub-total">
+                                SubTotal : $ <span class="cart-value">1099.99</span>
+                            </div>
+                            
+                            <div class="check-out">
+                                <a>Checkout</a>
+                            </div>
+                            
+                        </div>
+                        
+                        
+                        
+                        
+                        
+                    
+                    </div>
+                    
+                
+                </div>
+            </div>
+        </div> 
+        <!--
+        
+        <div class="blur-background size-guide" style="display: none;">
+            <div class="container">
+                <div class="close-window"><i class="fa fa-window-close"></i> </div>
+
+                <div class="row">
+                    <div class="col-1">
+                        <div class="content">
+                            <div class="table-top-heading ">
+                                <i class="fa fa-arrow-circle-down cart-item-collapse"  onclick="displayTable(this)"></i>
+                                <h3>Women</h3>
+                                
+                                <table>
+                                    <tr>
+                                        <th>Waist (inches)</th>
+                                        <th>23</th>
+                                        <th>24</th>
+                                        <th>25</th>
+                                        <th>26</th>
+                                        <th>27</th>
+                                        <th>28</th>
+                                        <th>29</th>
+                                        <th>30</th>
+                                        <th>31</th>
+                                        <th>32</th>
+                                        <th>34</th>
+                                    </tr>
+                                    <tr>
+                                        <td>Top Jeans</td>
+                                        <td></td>
+                                        <td>6</td>
+                                        <td>7</td>
+                                        <td>8</td>
+                                        <td>9</td>
+                                        <td>10</td>
+                                        <td>11</td>
+                                        <td>12</td>
+                                        <td>13</td>
+                                        <td>14</td>
+                                        <td>16</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Levi's</td>
+                                        <td></td>
+                                        <td>6</td>
+                                        <td>7</td>
+                                        <td>8</td>
+                                        <td>9</td>
+                                        <td>10</td>
+                                        <td>11</td>
+                                        <td>12</td>
+                                        <td>13</td>
+                                        <td>14</td>
+                                        <td>16</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Riders</td>
+                                        <td></td>
+                                        <td>6</td>
+                                        <td>7</td>
+                                        <td>8</td>
+                                        <td>9</td>
+                                        <td>10</td>
+                                        <td>11</td>
+                                        <td>12</td>
+                                        <td>13</td>
+                                        <td>14</td>
+                                        <td></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Mavi</td>
+                                        <td></td>
+                                        <td>6</td>
+                                        <td>7</td>
+                                        <td>8</td>
+                                        <td>9</td>
+                                        <td>10</td>
+                                        <td>11</td>
+                                        <td>12</td>
+                                        <td>13</td>
+                                        <td>14</td>
+                                        <td></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Calvin Klein Jeans</td>
+                                        <td></td>
+                                        <td>6</td>
+                                        <td>7</td>
+                                        <td>8</td>
+                                        <td>9</td>
+                                        <td>10</td>
+                                        <td>11</td>
+                                        <td>12</td>
+                                        <td>13</td>
+                                        <td>14</td>
+                                        <td></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Guess</td>
+                                        <td></td>
+                                        <td>6</td>
+                                        <td>7</td>
+                                        <td>8</td>
+                                        <td>9</td>
+                                        <td>10</td>
+                                        <td>11</td>
+                                        <td>12</td>
+                                        <td>13</td>
+                                        <td>14</td>
+                                        <td></td>
+                                    </tr>
+                                    <tr>
+                                        <td>NYDJ(AU/US)</td>
+                                        <td>4/0</td>
+                                        <td>6/2</td>
+                                        <td></td>
+                                        <td>8/4</td>
+                                        <td></td>
+                                        <td>10/6</td>
+                                        <td></td>
+                                        <td>12/8</td>
+                                        <td></td>
+                                        <td>14/10</td>
+                                        <td>16/12</td>
+                                    </tr>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-1">
+                        <div class="content">
+                            <div class="table-top-heading ">
+                                <i class="fa fa-arrow-circle-down cart-item-collapse"  onclick="displayTable(this)"></i>
+                                <h3>Men</h3>
+                                
+                                <table>
+                                    <tr>
+                                        <th>Waist (inches)</th>
+                                        <th>28</th>
+                                        <th>29</th>
+                                        <th>30</th>
+                                        <th>31</th>
+                                        <th>32</th>
+                                        <th>33</th>
+                                        <th>34</th>
+                                        <th>36</th>
+                                        <th>38</th>
+                                        <th>40</th>
+                                        <th>42</th>
+                                    </tr>
+                                    <tr>
+                                        <td>Top Jeans</td>
+                                        <td>72</td>
+                                        <td></td>
+                                        <td>77</td>
+                                        <td></td>
+                                        <td>82</td>
+                                        <td>84</td>
+                                        <td>87</td>
+                                        <td>92</td>
+                                        <td>97</td>
+                                        <td>102</td>
+                                        <td>107</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Levi's</td>
+                                        <td>72</td>
+                                        <td>74</td>
+                                        <td>76</td>
+                                        <td>78</td>
+                                        <td>82</td>
+                                        <td>84</td>
+                                        <td>86</td>
+                                        <td>92</td>
+                                        <td>97</td>
+                                        <td></td>
+                                        <td></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Riders</td>
+                                        <td>72</td>
+                                        <td>74</td>
+                                        <td>76</td>
+                                        <td>78</td>
+                                        <td>82</td>
+                                        <td>84</td>
+                                        <td>86</td>
+                                        <td>92</td>
+                                        <td>97</td>
+                                        <td></td>
+                                        <td></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Mavi</td>
+                                       <td>72</td>
+                                        <td>74</td>
+                                        <td>76</td>
+                                        <td>78</td>
+                                        <td>82</td>
+                                        <td>84</td>
+                                        <td>86</td>
+                                        <td>92</td>
+                                        <td>97</td>
+                                        <td></td>
+                                        <td></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Calvin Klein Jeans</td>
+                                       <td>72</td>
+                                        <td>74</td>
+                                        <td>76</td>
+                                        <td>78</td>
+                                        <td>82</td>
+                                        <td>84</td>
+                                        <td>86</td>
+                                        <td>92</td>
+                                        <td>97</td>
+                                        <td></td>
+                                        <td></td>
+                                    </tr>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+-->
+    <!-------------------------------------------------------------------------->    
+    <!---------------------------Non deletable code----------------------------->    
+    <!-------------------------------------------------------------------------->   
+     
+        
+
+    <!-------------------------------------------------------------------------->    
+    <!--------------------------- footer----------------------------------------->    
+    <!-------------------------------------------------------------------------->      
+    <footer>
+            <div class="body-container">
+                <div class="row">
+                    <div class="col-2">
+                       <div class="row">
+                             <div class="col-3">
+                                <div class="content">
+                                    <div class="footer-block">
+                                        <h3>Shop location</h3>
+                                        <div class="mob-control"><i onclick="footerOptionExpand(this)" class="fa fa-plus"></i></div>
+                                        <div class="footer-block-link">
+                                            <a href="stores.html">Find the nearest one</a>
+                                        </div>
+                                    </div>
+                                  
+                                    <div class="footer-block">
+                                        <h3> About us</h3>
+                                        <div class="mob-control"><i onclick="footerOptionExpand(this)" class="fa fa-plus"></i></div>
+                                        <div class="footer-block-link">
+                                            <a href="about.html">About Top jeans</a>
+                                            <a href="careers.html">Careers</a>
+                                            <a href="terms_condition.html">Terms and Conditions</a>
+                                        </div>
+
+                                        
+                                    </div>
+                                
+
+                                </div>
+                        </div>
+                        <div class="col-3">
+                            <div class="content">
+                                <div class="footer-block">
+                                    <h3>New In</h3>
+                                    <div class="mob-control"><i onclick="footerOptionExpand(this)" class="fa fa-plus"></i></div>
+                                    <div class="footer-block-link">
+                                         <a href="product.html" onclick="filter('men','New in', 'All', 'All')">Men</a>
+                                        <a href="product.html" onclick="filter('women','New in', 'All', 'All')">Women</a>
+                                    </div>    
+                                </div> 
+                                
+                                <div class="footer-block">
+                                    <h3>On Sale</h3>
+                                    <div class="mob-control"><i onclick="footerOptionExpand(this)" class="fa fa-plus"></i></div>
+                                    <div class="footer-block-link">
+                                        <a href="product.html" onclick="filter('men','On sale', 'All', 'All')">Men</a>
+                                        <a href="product.html" onclick="filter('women','On sale', 'All', 'All')">Women</a>
+                                    </div>    
+                                </div>
+                               
+                                
+                              
+                            </div>
+                        </div>
+                        
+                        
+                        <div class="col-3">
+                            <div class="content">
+                                <div class="footer-block">
+                                    <h3>Fit Guide</h3>
+                                    <div class="mob-control"><i onclick="footerOptionExpand(this)" class="fa fa-plus"></i></div>
+                                    <div class="footer-block-link">
+                                        <a onclick="displySizeGuide('men')">Men</a>
+                                        <a onclick="displySizeGuide('women')">Women</a>
+                                    </div>
+
+                                
+                                </div>
+                               
+                                <div class="footer-block">
+                                    <h3>Others</h3>
+                                    <div class="mob-control"><i onclick="footerOptionExpand(this)" class="fa fa-plus"></i></div>
+                                    <div class="footer-block-link">
+                                        <a href="cart.html">Shopping-Cart</a>
+                                        <a href="saved_item.html">Saved Item</a>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                    
+                    
+                    <div class="col-2">
+                        <div class="row">
+                            <div class="col-1">
+                                <div class="content">
+                                    <div class="footer-block">
+                                        <h3>Drop your email address</h3>
+                                        <div class="mob-control"><i onclick="footerOptionExpand(this)" class="fa fa-plus"></i></div>
+                                        <div class="footer-block-link">
+                                            <p>Join with us for newsletter and other related articales. We will also inform you all the new collection once arravied and the discount at our stores.</p>
+                                            <form>
+                                                <input type="email" name="email" placeholder="Email">
+                                                <input onclick="sendEmail()" type="button" value="JOIN">
+                                            </form>
+                                        </div>
+
+                                    </div>
+                                    
+                                   <div class="social-links">
+                                        <i class="fa fa-facebook-official"></i>
+                                        <i class="fa fa-instagram"></i>
+                                        <i class="fa fa-snapchat"></i>
+                                        <i class="fa fa-pinterest-p"></i>
+                                        <i class="fa fa-twitter"></i>
+                                        <i class="fa fa-linkedin"></i>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+            
+            </div>
+            <div class="row copyright"> Copyright reserved by Rajib Dey</div>
+
+        </footer>
+    <!-------------------------------------------------------------------------->    
+    <!--------------------------- End:footer----------------------------------------->    
+    <!-------------------------------------------------------------------------->          
+        
+        <script>
+         setTimeout(()=>{
+             loadNav();
+             womenIndexProduct();
+             menIndexProduct();
+           // displySizeGuide("women");
+         }, 1000);
+            
+            setTimeout(()=>{
+                slideShow("#main_slide_show", true, 0, 10000);
+        });
+
+        </script>
+
+    </body>
+</html>
